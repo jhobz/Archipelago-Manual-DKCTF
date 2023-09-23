@@ -1,0 +1,4918 @@
+[
+    {
+        "name": "Victory",
+        "requires": "|Boss Barrel:4|",
+        "victory": true
+    },
+    {
+        "name": "[1-1] Letter K",
+        "region": "[1-1] Mangrove Cove",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[1-1] Mangrove Cove"
+        ]
+    },
+    {
+        "name": "[1-1] Letter O",
+        "region": "[1-1] Mangrove Cove",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[1-1] Mangrove Cove"
+        ]
+    },
+    {
+        "name": "[1-1] Letter N",
+        "region": "[1-1] Mangrove Cove",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[1-1] Mangrove Cove"
+        ]
+    },
+    {
+        "name": "[1-1] Letter G",
+        "region": "[1-1] Mangrove Cove",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[1-1] Mangrove Cove"
+        ]
+    },
+    {
+        "name": "[1-1] Puzzle Piece #1",
+        "region": "[1-1] Mangrove Cove",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[1-1] Mangrove Cove"
+        ]
+    },
+    {
+        "name": "[1-1] Puzzle Piece #2",
+        "region": "[1-1] Mangrove Cove",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[1-1] Mangrove Cove"
+        ]
+    },
+    {
+        "name": "[1-1] Puzzle Piece #3",
+        "region": "[1-1] Mangrove Cove",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[1-1] Mangrove Cove"
+        ]
+    },
+    {
+        "name": "[1-1] Puzzle Piece #4",
+        "region": "[1-1] Mangrove Cove",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[1-1] Mangrove Cove"
+        ]
+    },
+    {
+        "name": "[1-1] Puzzle Piece #5",
+        "region": "[1-1] Mangrove Cove",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[1-1] Mangrove Cove"
+        ]
+    },
+    {
+        "name": "[1-1] Puzzle Piece #6",
+        "region": "[1-1] Mangrove Cove",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[1-1] Mangrove Cove"
+        ]
+    },
+    {
+        "name": "[1-1] Puzzle Piece #7",
+        "region": "[1-1] Mangrove Cove",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[1-1] Mangrove Cove"
+        ]
+    },
+    {
+        "name": "[1-1] Puzzle Piece #8",
+        "region": "[1-1] Mangrove Cove",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[1-1] Mangrove Cove"
+        ]
+    },
+    {
+        "name": "[1-1] Puzzle Piece #9",
+        "region": "[1-1] Mangrove Cove",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[1-1] Mangrove Cove"
+        ]
+    },
+    {
+        "name": "[1-2] Letter K",
+        "region": "[1-2] Shipwreck Shore",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[1-2] Shipwreck Shore"
+        ]
+    },
+    {
+        "name": "[1-2] Letter O",
+        "region": "[1-2] Shipwreck Shore",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[1-2] Shipwreck Shore"
+        ]
+    },
+    {
+        "name": "[1-2] Letter N",
+        "region": "[1-2] Shipwreck Shore",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[1-2] Shipwreck Shore"
+        ]
+    },
+    {
+        "name": "[1-2] Letter G",
+        "region": "[1-2] Shipwreck Shore",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[1-2] Shipwreck Shore"
+        ]
+    },
+    {
+        "name": "[1-2] Puzzle Piece #1",
+        "region": "[1-2] Shipwreck Shore",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[1-2] Shipwreck Shore"
+        ]
+    },
+    {
+        "name": "[1-2] Puzzle Piece #2",
+        "region": "[1-2] Shipwreck Shore",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[1-2] Shipwreck Shore"
+        ]
+    },
+    {
+        "name": "[1-2] Puzzle Piece #3",
+        "region": "[1-2] Shipwreck Shore",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[1-2] Shipwreck Shore"
+        ]
+    },
+    {
+        "name": "[1-2] Puzzle Piece #4",
+        "region": "[1-2] Shipwreck Shore",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[1-2] Shipwreck Shore"
+        ]
+    },
+    {
+        "name": "[1-2] Puzzle Piece #5",
+        "region": "[1-2] Shipwreck Shore",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[1-2] Shipwreck Shore"
+        ]
+    },
+    {
+        "name": "[1-2] Puzzle Piece #6",
+        "region": "[1-2] Shipwreck Shore",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[1-2] Shipwreck Shore"
+        ]
+    },
+    {
+        "name": "[1-2] Puzzle Piece #7",
+        "region": "[1-2] Shipwreck Shore",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[1-2] Shipwreck Shore"
+        ]
+    },
+    {
+        "name": "[1-2] Puzzle Piece #8",
+        "region": "[1-2] Shipwreck Shore",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[1-2] Shipwreck Shore"
+        ]
+    },
+    {
+        "name": "[1-2] Puzzle Piece #9",
+        "region": "[1-2] Shipwreck Shore",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[1-2] Shipwreck Shore"
+        ]
+    },
+    {
+        "name": "[1-A] Letter K",
+        "region": "[1-A] Zip-Line Shrine",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[1-A] Zip-Line Shrine"
+        ]
+    },
+    {
+        "name": "[1-A] Letter O",
+        "region": "[1-A] Zip-Line Shrine",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[1-A] Zip-Line Shrine"
+        ]
+    },
+    {
+        "name": "[1-A] Letter N",
+        "region": "[1-A] Zip-Line Shrine",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[1-A] Zip-Line Shrine"
+        ]
+    },
+    {
+        "name": "[1-A] Letter G",
+        "region": "[1-A] Zip-Line Shrine",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[1-A] Zip-Line Shrine"
+        ]
+    },
+    {
+        "name": "[1-A] Puzzle Piece #1",
+        "region": "[1-A] Zip-Line Shrine",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[1-A] Zip-Line Shrine"
+        ]
+    },
+    {
+        "name": "[1-A] Puzzle Piece #2",
+        "region": "[1-A] Zip-Line Shrine",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[1-A] Zip-Line Shrine"
+        ]
+    },
+    {
+        "name": "[1-A] Puzzle Piece #3",
+        "region": "[1-A] Zip-Line Shrine",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[1-A] Zip-Line Shrine"
+        ]
+    },
+    {
+        "name": "[1-A] Puzzle Piece #4",
+        "region": "[1-A] Zip-Line Shrine",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[1-A] Zip-Line Shrine"
+        ]
+    },
+    {
+        "name": "[1-A] Puzzle Piece #5",
+        "region": "[1-A] Zip-Line Shrine",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[1-A] Zip-Line Shrine"
+        ]
+    },
+    {
+        "name": "[1-3] Letter K",
+        "region": "[1-3] Canopy Chaos",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[1-3] Canopy Chaos"
+        ]
+    },
+    {
+        "name": "[1-3] Letter O",
+        "region": "[1-3] Canopy Chaos",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[1-3] Canopy Chaos"
+        ]
+    },
+    {
+        "name": "[1-3] Letter N",
+        "region": "[1-3] Canopy Chaos",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[1-3] Canopy Chaos"
+        ]
+    },
+    {
+        "name": "[1-3] Letter G",
+        "region": "[1-3] Canopy Chaos",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[1-3] Canopy Chaos"
+        ]
+    },
+    {
+        "name": "[1-3] Puzzle Piece #1",
+        "region": "[1-3] Canopy Chaos",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[1-3] Canopy Chaos"
+        ]
+    },
+    {
+        "name": "[1-3] Puzzle Piece #2",
+        "region": "[1-3] Canopy Chaos",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[1-3] Canopy Chaos"
+        ]
+    },
+    {
+        "name": "[1-3] Puzzle Piece #3",
+        "region": "[1-3] Canopy Chaos",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[1-3] Canopy Chaos"
+        ]
+    },
+    {
+        "name": "[1-3] Puzzle Piece #4",
+        "region": "[1-3] Canopy Chaos",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[1-3] Canopy Chaos"
+        ]
+    },
+    {
+        "name": "[1-3] Puzzle Piece #5",
+        "region": "[1-3] Canopy Chaos",
+        "requires": "|Dixie Kong| OR |Cranky Kong|",
+        "category": [
+            "Puzzle Pieces",
+            "[1-3] Canopy Chaos"
+        ]
+    },
+    {
+        "name": "[1-3] Puzzle Piece #6",
+        "region": "[1-3] Canopy Chaos",
+        "requires": "|Dixie Kong| OR |Cranky Kong|",
+        "category": [
+            "Puzzle Pieces",
+            "[1-3] Canopy Chaos"
+        ]
+    },
+    {
+        "name": "[1-3] Puzzle Piece #7",
+        "region": "[1-3] Canopy Chaos",
+        "requires": "|Dixie Kong| OR |Cranky Kong|",
+        "category": [
+            "Puzzle Pieces",
+            "[1-3] Canopy Chaos"
+        ]
+    },
+    {
+        "name": "[1-B] Letter K",
+        "region": "[1-B] Busted Bayou",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[1-B] Busted Bayou"
+        ]
+    },
+    {
+        "name": "[1-B] Letter O",
+        "region": "[1-B] Busted Bayou",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[1-B] Busted Bayou"
+        ]
+    },
+    {
+        "name": "[1-B] Letter N",
+        "region": "[1-B] Busted Bayou",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[1-B] Busted Bayou"
+        ]
+    },
+    {
+        "name": "[1-B] Letter G",
+        "region": "[1-B] Busted Bayou",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[1-B] Busted Bayou"
+        ]
+    },
+    {
+        "name": "[1-B] Puzzle Piece #1",
+        "region": "[1-B] Busted Bayou",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[1-B] Busted Bayou"
+        ]
+    },
+    {
+        "name": "[1-B] Puzzle Piece #2",
+        "region": "[1-B] Busted Bayou",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[1-B] Busted Bayou"
+        ]
+    },
+    {
+        "name": "[1-B] Puzzle Piece #3",
+        "region": "[1-B] Busted Bayou",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[1-B] Busted Bayou"
+        ]
+    },
+    {
+        "name": "[1-B] Puzzle Piece #4",
+        "region": "[1-B] Busted Bayou",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[1-B] Busted Bayou"
+        ]
+    },
+    {
+        "name": "[1-B] Puzzle Piece #5",
+        "region": "[1-B] Busted Bayou",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[1-B] Busted Bayou"
+        ]
+    },
+    {
+        "name": "[1-B] Puzzle Piece #6",
+        "region": "[1-B] Busted Bayou",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[1-B] Busted Bayou"
+        ]
+    },
+    {
+        "name": "[1-B] Puzzle Piece #7",
+        "region": "[1-B] Busted Bayou",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[1-B] Busted Bayou"
+        ]
+    },
+    {
+        "name": "[1-B] Puzzle Piece #8",
+        "region": "[1-B] Busted Bayou",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[1-B] Busted Bayou"
+        ]
+    },
+    {
+        "name": "[1-B] Puzzle Piece #9",
+        "region": "[1-B] Busted Bayou",
+        "requires": "|Dixie Kong| OR |Cranky Kong|",
+        "category": [
+            "Puzzle Pieces",
+            "[1-B] Busted Bayou"
+        ]
+    },
+    {
+        "name": "[1-4] Letter K",
+        "region": "[1-4] Trunk Twister",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[1-4] Trunk Twister"
+        ]
+    },
+    {
+        "name": "[1-4] Letter O",
+        "region": "[1-4] Trunk Twister",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[1-4] Trunk Twister"
+        ]
+    },
+    {
+        "name": "[1-4] Letter N",
+        "region": "[1-4] Trunk Twister",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[1-4] Trunk Twister"
+        ]
+    },
+    {
+        "name": "[1-4] Letter G",
+        "region": "[1-4] Trunk Twister",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[1-4] Trunk Twister"
+        ]
+    },
+    {
+        "name": "[1-4] Puzzle Piece #1",
+        "region": "[1-4] Trunk Twister",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[1-4] Trunk Twister"
+        ]
+    },
+    {
+        "name": "[1-4] Puzzle Piece #2",
+        "region": "[1-4] Trunk Twister",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[1-4] Trunk Twister"
+        ]
+    },
+    {
+        "name": "[1-4] Puzzle Piece #3",
+        "region": "[1-4] Trunk Twister",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[1-4] Trunk Twister"
+        ]
+    },
+    {
+        "name": "[1-4] Puzzle Piece #4",
+        "region": "[1-4] Trunk Twister",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[1-4] Trunk Twister"
+        ]
+    },
+    {
+        "name": "[1-4] Puzzle Piece #5",
+        "region": "[1-4] Trunk Twister",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[1-4] Trunk Twister"
+        ]
+    },
+    {
+        "name": "[1-K] Puzzle Piece #1",
+        "region": "[1-K] Swinger Flinger",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[1-K] Swinger Flinger"
+        ]
+    },
+    {
+        "name": "[1-K] Puzzle Piece #2",
+        "region": "[1-K] Swinger Flinger",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[1-K] Swinger Flinger"
+        ]
+    },
+    {
+        "name": "[1-K] Puzzle Piece #3",
+        "region": "[1-K] Swinger Flinger",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[1-K] Swinger Flinger"
+        ]
+    },
+    {
+        "name": "[1-K] Puzzle Piece #4",
+        "region": "[1-K] Swinger Flinger",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[1-K] Swinger Flinger"
+        ]
+    },
+    {
+        "name": "[1-K] Puzzle Piece #5",
+        "region": "[1-K] Swinger Flinger",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[1-K] Swinger Flinger"
+        ]
+    },
+    {
+        "name": "Defeat Pompy, the Presumptuous",
+        "region": "[1-Boss] Big Top Bop",
+        "requires": [],
+        "category": [
+            "Bosses",
+            "[1-Boss] Big Top Bop"
+        ],
+        "place_item": "|Boss Barrel|"
+    },
+    {
+        "name": "[2-1] Letter K",
+        "region": "[2-1] Windmill Hills",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[2-1] Windmill Hills"
+        ]
+    },
+    {
+        "name": "[2-1] Letter O",
+        "region": "[2-1] Windmill Hills",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[2-1] Windmill Hills"
+        ]
+    },
+    {
+        "name": "[2-1] Letter N",
+        "region": "[2-1] Windmill Hills",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[2-1] Windmill Hills"
+        ]
+    },
+    {
+        "name": "[2-1] Letter G",
+        "region": "[2-1] Windmill Hills",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[2-1] Windmill Hills"
+        ]
+    },
+    {
+        "name": "[2-1] Puzzle Piece #1",
+        "region": "[2-1] Windmill Hills",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[2-1] Windmill Hills"
+        ]
+    },
+    {
+        "name": "[2-1] Puzzle Piece #2",
+        "region": "[2-1] Windmill Hills",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[2-1] Windmill Hills"
+        ]
+    },
+    {
+        "name": "[2-1] Puzzle Piece #3",
+        "region": "[2-1] Windmill Hills",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[2-1] Windmill Hills"
+        ]
+    },
+    {
+        "name": "[2-1] Puzzle Piece #4",
+        "region": "[2-1] Windmill Hills",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[2-1] Windmill Hills"
+        ]
+    },
+    {
+        "name": "[2-1] Puzzle Piece #5",
+        "region": "[2-1] Windmill Hills",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[2-1] Windmill Hills"
+        ]
+    },
+    {
+        "name": "[2-1] Puzzle Piece #6",
+        "region": "[2-1] Windmill Hills",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[2-1] Windmill Hills"
+        ]
+    },
+    {
+        "name": "[2-1] Puzzle Piece #7",
+        "region": "[2-1] Windmill Hills",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[2-1] Windmill Hills"
+        ]
+    },
+    {
+        "name": "[2-1] Puzzle Piece #8",
+        "region": "[2-1] Windmill Hills",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[2-1] Windmill Hills"
+        ]
+    },
+    {
+        "name": "[2-1] Puzzle Piece #9",
+        "region": "[2-1] Windmill Hills",
+        "requires": "|@Kongs|",
+        "category": [
+            "Puzzle Pieces",
+            "[2-1] Windmill Hills"
+        ]
+    },
+    {
+        "name": "[2-2] Letter K",
+        "region": "[2-2] Mountain Mania",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[2-2] Mountain Mania"
+        ]
+    },
+    {
+        "name": "[2-2] Letter O",
+        "region": "[2-2] Mountain Mania",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[2-2] Mountain Mania"
+        ]
+    },
+    {
+        "name": "[2-2] Letter N",
+        "region": "[2-2] Mountain Mania",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[2-2] Mountain Mania"
+        ]
+    },
+    {
+        "name": "[2-2] Letter G",
+        "region": "[2-2] Mountain Mania",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[2-2] Mountain Mania"
+        ]
+    },
+    {
+        "name": "[2-2] Puzzle Piece #1",
+        "region": "[2-2] Mountain Mania",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[2-2] Mountain Mania"
+        ]
+    },
+    {
+        "name": "[2-2] Puzzle Piece #2",
+        "region": "[2-2] Mountain Mania",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[2-2] Mountain Mania"
+        ]
+    },
+    {
+        "name": "[2-2] Puzzle Piece #3",
+        "region": "[2-2] Mountain Mania",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[2-2] Mountain Mania"
+        ]
+    },
+    {
+        "name": "[2-2] Puzzle Piece #4",
+        "region": "[2-2] Mountain Mania",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[2-2] Mountain Mania"
+        ]
+    },
+    {
+        "name": "[2-2] Puzzle Piece #5",
+        "region": "[2-2] Mountain Mania",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[2-2] Mountain Mania"
+        ]
+    },
+    {
+        "name": "[2-2] Puzzle Piece #6",
+        "region": "[2-2] Mountain Mania",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[2-2] Mountain Mania"
+        ]
+    },
+    {
+        "name": "[2-2] Puzzle Piece #7",
+        "region": "[2-2] Mountain Mania",
+        "requires": "|Dixie Kong| OR |Cranky Kong|",
+        "category": [
+            "Puzzle Pieces",
+            "[2-2] Mountain Mania"
+        ]
+    },
+    {
+        "name": "[2-3] Letter K",
+        "region": "[2-3] Horn Top Hop",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[2-3] Horn Top Hop"
+        ]
+    },
+    {
+        "name": "[2-3] Letter O",
+        "region": "[2-3] Horn Top Hop",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[2-3] Horn Top Hop"
+        ]
+    },
+    {
+        "name": "[2-3] Letter N",
+        "region": "[2-3] Horn Top Hop",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[2-3] Horn Top Hop"
+        ]
+    },
+    {
+        "name": "[2-3] Letter G",
+        "region": "[2-3] Horn Top Hop",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[2-3] Horn Top Hop"
+        ]
+    },
+    {
+        "name": "[2-3] Puzzle Piece #1",
+        "region": "[2-3] Horn Top Hop",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[2-3] Horn Top Hop"
+        ]
+    },
+    {
+        "name": "[2-3] Puzzle Piece #2",
+        "region": "[2-3] Horn Top Hop",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[2-3] Horn Top Hop"
+        ]
+    },
+    {
+        "name": "[2-3] Puzzle Piece #3",
+        "region": "[2-3] Horn Top Hop",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[2-3] Horn Top Hop"
+        ]
+    },
+    {
+        "name": "[2-3] Puzzle Piece #4",
+        "region": "[2-3] Horn Top Hop",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[2-3] Horn Top Hop"
+        ]
+    },
+    {
+        "name": "[2-3] Puzzle Piece #5",
+        "region": "[2-3] Horn Top Hop",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[2-3] Horn Top Hop"
+        ]
+    },
+    {
+        "name": "[2-4] Letter K",
+        "region": "[2-4] Sawmill Thrill",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[2-4] Sawmill Thrill"
+        ]
+    },
+    {
+        "name": "[2-4] Letter O",
+        "region": "[2-4] Sawmill Thrill",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[2-4] Sawmill Thrill"
+        ]
+    },
+    {
+        "name": "[2-4] Letter N",
+        "region": "[2-4] Sawmill Thrill",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[2-4] Sawmill Thrill"
+        ]
+    },
+    {
+        "name": "[2-4] Letter G",
+        "region": "[2-4] Sawmill Thrill",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[2-4] Sawmill Thrill"
+        ]
+    },
+    {
+        "name": "[2-4] Puzzle Piece #1",
+        "region": "[2-4] Sawmill Thrill",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[2-4] Sawmill Thrill"
+        ]
+    },
+    {
+        "name": "[2-4] Puzzle Piece #2",
+        "region": "[2-4] Sawmill Thrill",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[2-4] Sawmill Thrill"
+        ]
+    },
+    {
+        "name": "[2-4] Puzzle Piece #3",
+        "region": "[2-4] Sawmill Thrill",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[2-4] Sawmill Thrill"
+        ]
+    },
+    {
+        "name": "[2-4] Puzzle Piece #4",
+        "region": "[2-4] Sawmill Thrill",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[2-4] Sawmill Thrill"
+        ]
+    },
+    {
+        "name": "[2-4] Puzzle Piece #5",
+        "region": "[2-4] Sawmill Thrill",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[2-4] Sawmill Thrill"
+        ]
+    },
+    {
+        "name": "[2-5] Letter K",
+        "region": "[2-5] Alpine Incline",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[2-5] Alpine Incline"
+        ]
+    },
+    {
+        "name": "[2-5] Letter O",
+        "region": "[2-5] Alpine Incline",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[2-5] Alpine Incline"
+        ]
+    },
+    {
+        "name": "[2-5] Letter N",
+        "region": "[2-5] Alpine Incline",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[2-5] Alpine Incline"
+        ]
+    },
+    {
+        "name": "[2-5] Letter G",
+        "region": "[2-5] Alpine Incline",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[2-5] Alpine Incline"
+        ]
+    },
+    {
+        "name": "[2-5] Puzzle Piece #1",
+        "region": "[2-5] Alpine Incline",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[2-5] Alpine Incline"
+        ]
+    },
+    {
+        "name": "[2-5] Puzzle Piece #2",
+        "region": "[2-5] Alpine Incline",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[2-5] Alpine Incline"
+        ]
+    },
+    {
+        "name": "[2-5] Puzzle Piece #3",
+        "region": "[2-5] Alpine Incline",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[2-5] Alpine Incline"
+        ]
+    },
+    {
+        "name": "[2-5] Puzzle Piece #4",
+        "region": "[2-5] Alpine Incline",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[2-5] Alpine Incline"
+        ]
+    },
+    {
+        "name": "[2-5] Puzzle Piece #5",
+        "region": "[2-5] Alpine Incline",
+        "requires": "|Dixie Kong|",
+        "category": [
+            "Puzzle Pieces",
+            "[2-5] Alpine Incline"
+        ]
+    },
+    {
+        "name": "[2-A] Letter K",
+        "region": "[2-A] Crumble Cavern",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[2-A] Crumble Cavern"
+        ]
+    },
+    {
+        "name": "[2-A] Letter O",
+        "region": "[2-A] Crumble Cavern",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[2-A] Crumble Cavern"
+        ]
+    },
+    {
+        "name": "[2-A] Letter N",
+        "region": "[2-A] Crumble Cavern",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[2-A] Crumble Cavern"
+        ]
+    },
+    {
+        "name": "[2-A] Letter G",
+        "region": "[2-A] Crumble Cavern",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[2-A] Crumble Cavern"
+        ]
+    },
+    {
+        "name": "[2-A] Puzzle Piece #1",
+        "region": "[2-A] Crumble Cavern",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[2-A] Crumble Cavern"
+        ]
+    },
+    {
+        "name": "[2-A] Puzzle Piece #2",
+        "region": "[2-A] Crumble Cavern",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[2-A] Crumble Cavern"
+        ]
+    },
+    {
+        "name": "[2-A] Puzzle Piece #3",
+        "region": "[2-A] Crumble Cavern",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[2-A] Crumble Cavern"
+        ]
+    },
+    {
+        "name": "[2-A] Puzzle Piece #4",
+        "region": "[2-A] Crumble Cavern",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[2-A] Crumble Cavern"
+        ]
+    },
+    {
+        "name": "[2-A] Puzzle Piece #5",
+        "region": "[2-A] Crumble Cavern",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[2-A] Crumble Cavern"
+        ]
+    },
+    {
+        "name": "[2-A] Puzzle Piece #6",
+        "region": "[2-A] Crumble Cavern",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[2-A] Crumble Cavern"
+        ]
+    },
+    {
+        "name": "[2-A] Puzzle Piece #7",
+        "region": "[2-A] Crumble Cavern",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[2-A] Crumble Cavern"
+        ]
+    },
+    {
+        "name": "[2-B] Letter K",
+        "region": "[2-B] Rodent Ruckus",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[2-B] Rodent Ruckus"
+        ]
+    },
+    {
+        "name": "[2-B] Letter O",
+        "region": "[2-B] Rodent Ruckus",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[2-B] Rodent Ruckus"
+        ]
+    },
+    {
+        "name": "[2-B] Letter N",
+        "region": "[2-B] Rodent Ruckus",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[2-B] Rodent Ruckus"
+        ]
+    },
+    {
+        "name": "[2-B] Letter G",
+        "region": "[2-B] Rodent Ruckus",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[2-B] Rodent Ruckus"
+        ]
+    },
+    {
+        "name": "[2-B] Puzzle Piece #1",
+        "region": "[2-B] Rodent Ruckus",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[2-B] Rodent Ruckus"
+        ]
+    },
+    {
+        "name": "[2-B] Puzzle Piece #2",
+        "region": "[2-B] Rodent Ruckus",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[2-B] Rodent Ruckus"
+        ]
+    },
+    {
+        "name": "[2-B] Puzzle Piece #3",
+        "region": "[2-B] Rodent Ruckus",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[2-B] Rodent Ruckus"
+        ]
+    },
+    {
+        "name": "[2-B] Puzzle Piece #4",
+        "region": "[2-B] Rodent Ruckus",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[2-B] Rodent Ruckus"
+        ]
+    },
+    {
+        "name": "[2-B] Puzzle Piece #5",
+        "region": "[2-B] Rodent Ruckus",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[2-B] Rodent Ruckus"
+        ]
+    },
+    {
+        "name": "[2-6] Letter K",
+        "region": "[2-6] Wing Ding",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[2-6] Wing Ding"
+        ]
+    },
+    {
+        "name": "[2-6] Letter O",
+        "region": "[2-6] Wing Ding",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[2-6] Wing Ding"
+        ]
+    },
+    {
+        "name": "[2-6] Letter N",
+        "region": "[2-6] Wing Ding",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[2-6] Wing Ding"
+        ]
+    },
+    {
+        "name": "[2-6] Letter G",
+        "region": "[2-6] Wing Ding",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[2-6] Wing Ding"
+        ]
+    },
+    {
+        "name": "[2-6] Puzzle Piece #1",
+        "region": "[2-6] Wing Ding",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[2-6] Wing Ding"
+        ]
+    },
+    {
+        "name": "[2-6] Puzzle Piece #2",
+        "region": "[2-6] Wing Ding",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[2-6] Wing Ding"
+        ]
+    },
+    {
+        "name": "[2-6] Puzzle Piece #3",
+        "region": "[2-6] Wing Ding",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[2-6] Wing Ding"
+        ]
+    },
+    {
+        "name": "[2-6] Puzzle Piece #4",
+        "region": "[2-6] Wing Ding",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[2-6] Wing Ding"
+        ]
+    },
+    {
+        "name": "[2-6] Puzzle Piece #5",
+        "region": "[2-6] Wing Ding",
+        "requires": "|Dixie Kong| OR |Cranky Kong|",
+        "category": [
+            "Puzzle Pieces",
+            "[2-6] Wing Ding"
+        ]
+    },
+    {
+        "name": "[2-K] Puzzle Piece #1",
+        "region": "[2-K] Bopopolis",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[2-K] Bopopolis"
+        ]
+    },
+    {
+        "name": "[2-K] Puzzle Piece #2",
+        "region": "[2-K] Bopopolis",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[2-K] Bopopolis"
+        ]
+    },
+    {
+        "name": "[2-K] Puzzle Piece #3",
+        "region": "[2-K] Bopopolis",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[2-K] Bopopolis"
+        ]
+    },
+    {
+        "name": "[2-K] Puzzle Piece #4",
+        "region": "[2-K] Bopopolis",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[2-K] Bopopolis"
+        ]
+    },
+    {
+        "name": "[2-K] Puzzle Piece #5",
+        "region": "[2-K] Bopopolis",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[2-K] Bopopolis"
+        ]
+    },
+    {
+        "name": "Defeat Skowl, The Startling",
+        "region": "[2-Boss] Mountaintop Tussle",
+        "requires": [],
+        "category": [
+            "Bosses",
+            "[2-Boss] Mountaintop Tussle"
+        ],
+        "place_item": "|Boss Barrel|"
+    },
+    {
+        "name": "[3-1] Letter K",
+        "region": "[3-1] Grassland Groove",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[3-1] Grassland Groove"
+        ]
+    },
+    {
+        "name": "[3-1] Letter O",
+        "region": "[3-1] Grassland Groove",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[3-1] Grassland Groove"
+        ]
+    },
+    {
+        "name": "[3-1] Letter N",
+        "region": "[3-1] Grassland Groove",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[3-1] Grassland Groove"
+        ]
+    },
+    {
+        "name": "[3-1] Letter G",
+        "region": "[3-1] Grassland Groove",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[3-1] Grassland Groove"
+        ]
+    },
+    {
+        "name": "[3-1] Puzzle Piece #1",
+        "region": "[3-1] Grassland Groove",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-1] Grassland Groove"
+        ]
+    },
+    {
+        "name": "[3-1] Puzzle Piece #2",
+        "region": "[3-1] Grassland Groove",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-1] Grassland Groove"
+        ]
+    },
+    {
+        "name": "[3-1] Puzzle Piece #3",
+        "region": "[3-1] Grassland Groove",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-1] Grassland Groove"
+        ]
+    },
+    {
+        "name": "[3-1] Puzzle Piece #4",
+        "region": "[3-1] Grassland Groove",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-1] Grassland Groove"
+        ]
+    },
+    {
+        "name": "[3-1] Puzzle Piece #5",
+        "region": "[3-1] Grassland Groove",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-1] Grassland Groove"
+        ]
+    },
+    {
+        "name": "[3-1] Puzzle Piece #6",
+        "region": "[3-1] Grassland Groove",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-1] Grassland Groove"
+        ]
+    },
+    {
+        "name": "[3-1] Puzzle Piece #7",
+        "region": "[3-1] Grassland Groove",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-1] Grassland Groove"
+        ]
+    },
+    {
+        "name": "[3-1] Puzzle Piece #8",
+        "region": "[3-1] Grassland Groove",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-1] Grassland Groove"
+        ]
+    },
+    {
+        "name": "[3-1] Puzzle Piece #9",
+        "region": "[3-1] Grassland Groove",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-1] Grassland Groove"
+        ]
+    },
+    {
+        "name": "[3-2] Letter K",
+        "region": "[3-2] Baobab Bonanza",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[3-2] Baobab Bonanza"
+        ]
+    },
+    {
+        "name": "[3-2] Letter O",
+        "region": "[3-2] Baobab Bonanza",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[3-2] Baobab Bonanza"
+        ]
+    },
+    {
+        "name": "[3-2] Letter N",
+        "region": "[3-2] Baobab Bonanza",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[3-2] Baobab Bonanza"
+        ]
+    },
+    {
+        "name": "[3-2] Letter G",
+        "region": "[3-2] Baobab Bonanza",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[3-2] Baobab Bonanza"
+        ]
+    },
+    {
+        "name": "[3-2] Puzzle Piece #1",
+        "region": "[3-2] Baobab Bonanza",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-2] Baobab Bonanza"
+        ]
+    },
+    {
+        "name": "[3-2] Puzzle Piece #2",
+        "region": "[3-2] Baobab Bonanza",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-2] Baobab Bonanza"
+        ]
+    },
+    {
+        "name": "[3-2] Puzzle Piece #3",
+        "region": "[3-2] Baobab Bonanza",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-2] Baobab Bonanza"
+        ]
+    },
+    {
+        "name": "[3-2] Puzzle Piece #4",
+        "region": "[3-2] Baobab Bonanza",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-2] Baobab Bonanza"
+        ]
+    },
+    {
+        "name": "[3-2] Puzzle Piece #5",
+        "region": "[3-2] Baobab Bonanza",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-2] Baobab Bonanza"
+        ]
+    },
+    {
+        "name": "[3-2] Puzzle Piece #6",
+        "region": "[3-2] Baobab Bonanza",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-2] Baobab Bonanza"
+        ]
+    },
+    {
+        "name": "[3-2] Puzzle Piece #7",
+        "region": "[3-2] Baobab Bonanza",
+        "requires": "|Dixie Kong| OR |Cranky Kong|",
+        "category": [
+            "Puzzle Pieces",
+            "[3-2] Baobab Bonanza"
+        ]
+    },
+    {
+        "name": "[3-3] Letter K",
+        "region": "[3-3] Frantic Fields",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[3-3] Frantic Fields"
+        ]
+    },
+    {
+        "name": "[3-3] Letter O",
+        "region": "[3-3] Frantic Fields",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[3-3] Frantic Fields"
+        ]
+    },
+    {
+        "name": "[3-3] Letter N",
+        "region": "[3-3] Frantic Fields",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[3-3] Frantic Fields"
+        ]
+    },
+    {
+        "name": "[3-3] Letter G",
+        "region": "[3-3] Frantic Fields",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[3-3] Frantic Fields"
+        ]
+    },
+    {
+        "name": "[3-3] Puzzle Piece #1",
+        "region": "[3-3] Frantic Fields",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-3] Frantic Fields"
+        ]
+    },
+    {
+        "name": "[3-3] Puzzle Piece #2",
+        "region": "[3-3] Frantic Fields",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-3] Frantic Fields"
+        ]
+    },
+    {
+        "name": "[3-3] Puzzle Piece #3",
+        "region": "[3-3] Frantic Fields",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-3] Frantic Fields"
+        ]
+    },
+    {
+        "name": "[3-3] Puzzle Piece #4",
+        "region": "[3-3] Frantic Fields",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-3] Frantic Fields"
+        ]
+    },
+    {
+        "name": "[3-3] Puzzle Piece #5",
+        "region": "[3-3] Frantic Fields",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-3] Frantic Fields"
+        ]
+    },
+    {
+        "name": "[3-4] Letter K",
+        "region": "[3-4] Scorch 'n' Torch",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[3-4] Scorch 'n' Torch"
+        ]
+    },
+    {
+        "name": "[3-4] Letter O",
+        "region": "[3-4] Scorch 'n' Torch",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[3-4] Scorch 'n' Torch"
+        ]
+    },
+    {
+        "name": "[3-4] Letter N",
+        "region": "[3-4] Scorch 'n' Torch",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[3-4] Scorch 'n' Torch"
+        ]
+    },
+    {
+        "name": "[3-4] Letter G",
+        "region": "[3-4] Scorch 'n' Torch",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[3-4] Scorch 'n' Torch"
+        ]
+    },
+    {
+        "name": "[3-4] Puzzle Piece #1",
+        "region": "[3-4] Scorch 'n' Torch",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-4] Scorch 'n' Torch"
+        ]
+    },
+    {
+        "name": "[3-4] Puzzle Piece #2",
+        "region": "[3-4] Scorch 'n' Torch",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-4] Scorch 'n' Torch"
+        ]
+    },
+    {
+        "name": "[3-4] Puzzle Piece #3",
+        "region": "[3-4] Scorch 'n' Torch",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-4] Scorch 'n' Torch"
+        ]
+    },
+    {
+        "name": "[3-4] Puzzle Piece #4",
+        "region": "[3-4] Scorch 'n' Torch",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-4] Scorch 'n' Torch"
+        ]
+    },
+    {
+        "name": "[3-4] Puzzle Piece #5",
+        "region": "[3-4] Scorch 'n' Torch",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-4] Scorch 'n' Torch"
+        ]
+    },
+    {
+        "name": "[3-4] Puzzle Piece #6",
+        "region": "[3-4] Scorch 'n' Torch",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-4] Scorch 'n' Torch"
+        ]
+    },
+    {
+        "name": "[3-4] Puzzle Piece #7",
+        "region": "[3-4] Scorch 'n' Torch",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-4] Scorch 'n' Torch"
+        ]
+    },
+    {
+        "name": "[3-5] Letter K",
+        "region": "[3-5] Twilight Terror",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[3-5] Twilight Terror"
+        ]
+    },
+    {
+        "name": "[3-5] Letter O",
+        "region": "[3-5] Twilight Terror",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[3-5] Twilight Terror"
+        ]
+    },
+    {
+        "name": "[3-5] Letter N",
+        "region": "[3-5] Twilight Terror",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[3-5] Twilight Terror"
+        ]
+    },
+    {
+        "name": "[3-5] Letter G",
+        "region": "[3-5] Twilight Terror",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[3-5] Twilight Terror"
+        ]
+    },
+    {
+        "name": "[3-5] Puzzle Piece #1",
+        "region": "[3-5] Twilight Terror",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-5] Twilight Terror"
+        ]
+    },
+    {
+        "name": "[3-5] Puzzle Piece #2",
+        "region": "[3-5] Twilight Terror",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-5] Twilight Terror"
+        ]
+    },
+    {
+        "name": "[3-5] Puzzle Piece #3",
+        "region": "[3-5] Twilight Terror",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-5] Twilight Terror"
+        ]
+    },
+    {
+        "name": "[3-5] Puzzle Piece #4",
+        "region": "[3-5] Twilight Terror",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-5] Twilight Terror"
+        ]
+    },
+    {
+        "name": "[3-5] Puzzle Piece #5",
+        "region": "[3-5] Twilight Terror",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-5] Twilight Terror"
+        ]
+    },
+    {
+        "name": "[3-A] Letter K",
+        "region": "[3-A] Rickety Rafters",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[3-A] Rickety Rafters"
+        ]
+    },
+    {
+        "name": "[3-A] Letter O",
+        "region": "[3-A] Rickety Rafters",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[3-A] Rickety Rafters"
+        ]
+    },
+    {
+        "name": "[3-A] Letter N",
+        "region": "[3-A] Rickety Rafters",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[3-A] Rickety Rafters"
+        ]
+    },
+    {
+        "name": "[3-A] Letter G",
+        "region": "[3-A] Rickety Rafters",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[3-A] Rickety Rafters"
+        ]
+    },
+    {
+        "name": "[3-A] Puzzle Piece #1",
+        "region": "[3-A] Rickety Rafters",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-A] Rickety Rafters"
+        ]
+    },
+    {
+        "name": "[3-A] Puzzle Piece #2",
+        "region": "[3-A] Rickety Rafters",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-A] Rickety Rafters"
+        ]
+    },
+    {
+        "name": "[3-A] Puzzle Piece #3",
+        "region": "[3-A] Rickety Rafters",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-A] Rickety Rafters"
+        ]
+    },
+    {
+        "name": "[3-A] Puzzle Piece #4",
+        "region": "[3-A] Rickety Rafters",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-A] Rickety Rafters"
+        ]
+    },
+    {
+        "name": "[3-A] Puzzle Piece #5",
+        "region": "[3-A] Rickety Rafters",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-A] Rickety Rafters"
+        ]
+    },
+    {
+        "name": "[3-6] Letter K",
+        "region": "[3-6] Cannon Canyon",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[3-6] Cannon Canyon"
+        ]
+    },
+    {
+        "name": "[3-6] Letter O",
+        "region": "[3-6] Cannon Canyon",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[3-6] Cannon Canyon"
+        ]
+    },
+    {
+        "name": "[3-6] Letter N",
+        "region": "[3-6] Cannon Canyon",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[3-6] Cannon Canyon"
+        ]
+    },
+    {
+        "name": "[3-6] Letter G",
+        "region": "[3-6] Cannon Canyon",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[3-6] Cannon Canyon"
+        ]
+    },
+    {
+        "name": "[3-6] Puzzle Piece #1",
+        "region": "[3-6] Cannon Canyon",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-6] Cannon Canyon"
+        ]
+    },
+    {
+        "name": "[3-6] Puzzle Piece #2",
+        "region": "[3-6] Cannon Canyon",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-6] Cannon Canyon"
+        ]
+    },
+    {
+        "name": "[3-6] Puzzle Piece #3",
+        "region": "[3-6] Cannon Canyon",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-6] Cannon Canyon"
+        ]
+    },
+    {
+        "name": "[3-6] Puzzle Piece #4",
+        "region": "[3-6] Cannon Canyon",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-6] Cannon Canyon"
+        ]
+    },
+    {
+        "name": "[3-6] Puzzle Piece #5",
+        "region": "[3-6] Cannon Canyon",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-6] Cannon Canyon"
+        ]
+    },
+    {
+        "name": "[3-B] Letter K",
+        "region": "[3-B] Bramble Scramble",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[3-B] Bramble Scramble"
+        ]
+    },
+    {
+        "name": "[3-B] Letter O",
+        "region": "[3-B] Bramble Scramble",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[3-B] Bramble Scramble"
+        ]
+    },
+    {
+        "name": "[3-B] Letter N",
+        "region": "[3-B] Bramble Scramble",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[3-B] Bramble Scramble"
+        ]
+    },
+    {
+        "name": "[3-B] Letter G",
+        "region": "[3-B] Bramble Scramble",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[3-B] Bramble Scramble"
+        ]
+    },
+    {
+        "name": "[3-B] Puzzle Piece #1",
+        "region": "[3-B] Bramble Scramble",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-B] Bramble Scramble"
+        ]
+    },
+    {
+        "name": "[3-B] Puzzle Piece #2",
+        "region": "[3-B] Bramble Scramble",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-B] Bramble Scramble"
+        ]
+    },
+    {
+        "name": "[3-B] Puzzle Piece #3",
+        "region": "[3-B] Bramble Scramble",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-B] Bramble Scramble"
+        ]
+    },
+    {
+        "name": "[3-B] Puzzle Piece #4",
+        "region": "[3-B] Bramble Scramble",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-B] Bramble Scramble"
+        ]
+    },
+    {
+        "name": "[3-B] Puzzle Piece #5",
+        "region": "[3-B] Bramble Scramble",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-B] Bramble Scramble"
+        ]
+    },
+    {
+        "name": "[3-B] Puzzle Piece #6",
+        "region": "[3-B] Bramble Scramble",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-B] Bramble Scramble"
+        ]
+    },
+    {
+        "name": "[3-B] Puzzle Piece #7",
+        "region": "[3-B] Bramble Scramble",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-B] Bramble Scramble"
+        ]
+    },
+    {
+        "name": "[3-K] Letter K",
+        "region": "[3-K] Precarious Pendulums",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[3-K] Precarious Pendulums"
+        ]
+    },
+    {
+        "name": "[3-K] Letter O",
+        "region": "[3-K] Precarious Pendulums",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[3-K] Precarious Pendulums"
+        ]
+    },
+    {
+        "name": "[3-K] Letter N",
+        "region": "[3-K] Precarious Pendulums",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[3-K] Precarious Pendulums"
+        ]
+    },
+    {
+        "name": "[3-K] Letter G",
+        "region": "[3-K] Precarious Pendulums",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[3-K] Precarious Pendulums"
+        ]
+    },
+    {
+        "name": "[3-K] Puzzle Piece #1",
+        "region": "[3-K] Precarious Pendulums",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-K] Precarious Pendulums"
+        ]
+    },
+    {
+        "name": "[3-K] Puzzle Piece #2",
+        "region": "[3-K] Precarious Pendulums",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-K] Precarious Pendulums"
+        ]
+    },
+    {
+        "name": "[3-K] Puzzle Piece #3",
+        "region": "[3-K] Precarious Pendulums",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-K] Precarious Pendulums"
+        ]
+    },
+    {
+        "name": "[3-K] Puzzle Piece #4",
+        "region": "[3-K] Precarious Pendulums",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-K] Precarious Pendulums"
+        ]
+    },
+    {
+        "name": "[3-K] Puzzle Piece #5",
+        "region": "[3-K] Precarious Pendulums",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[3-K] Precarious Pendulums"
+        ]
+    },
+    {
+        "name": "Defeat Ba-Boom, The Boisterous",
+        "region": "[3-Boss] Triple Trouble",
+        "requires": [],
+        "category": [
+            "Bosses",
+            "[3-Boss] Triple Trouble"
+        ],
+        "place_item": "|Boss Barrel|"
+    },
+    {
+        "name": "[4-1] Letter K",
+        "region": "[4-1] Deep Keep",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[4-1] Deep Keep"
+        ]
+    },
+    {
+        "name": "[4-1] Letter O",
+        "region": "[4-1] Deep Keep",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[4-1] Deep Keep"
+        ]
+    },
+    {
+        "name": "[4-1] Letter N",
+        "region": "[4-1] Deep Keep",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[4-1] Deep Keep"
+        ]
+    },
+    {
+        "name": "[4-1] Letter G",
+        "region": "[4-1] Deep Keep",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[4-1] Deep Keep"
+        ]
+    },
+    {
+        "name": "[4-1] Puzzle Piece #1",
+        "region": "[4-1] Deep Keep",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-1] Deep Keep"
+        ]
+    },
+    {
+        "name": "[4-1] Puzzle Piece #2",
+        "region": "[4-1] Deep Keep",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-1] Deep Keep"
+        ]
+    },
+    {
+        "name": "[4-1] Puzzle Piece #3",
+        "region": "[4-1] Deep Keep",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-1] Deep Keep"
+        ]
+    },
+    {
+        "name": "[4-1] Puzzle Piece #4",
+        "region": "[4-1] Deep Keep",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-1] Deep Keep"
+        ]
+    },
+    {
+        "name": "[4-1] Puzzle Piece #5",
+        "region": "[4-1] Deep Keep",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-1] Deep Keep"
+        ]
+    },
+    {
+        "name": "[4-1] Puzzle Piece #6",
+        "region": "[4-1] Deep Keep",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-1] Deep Keep"
+        ]
+    },
+    {
+        "name": "[4-1] Puzzle Piece #7",
+        "region": "[4-1] Deep Keep",
+        "requires": "|@Kongs|",
+        "category": [
+            "Puzzle Pieces",
+            "[4-1] Deep Keep"
+        ]
+    },
+    {
+        "name": "[4-A] Letter K",
+        "region": "[4-A] Rockin' Relics",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[4-A] Rockin' Relics"
+        ]
+    },
+    {
+        "name": "[4-A] Letter O",
+        "region": "[4-A] Rockin' Relics",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[4-A] Rockin' Relics"
+        ]
+    },
+    {
+        "name": "[4-A] Letter N",
+        "region": "[4-A] Rockin' Relics",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[4-A] Rockin' Relics"
+        ]
+    },
+    {
+        "name": "[4-A] Letter G",
+        "region": "[4-A] Rockin' Relics",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[4-A] Rockin' Relics"
+        ]
+    },
+    {
+        "name": "[4-A] Puzzle Piece #1",
+        "region": "[4-A] Rockin' Relics",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-A] Rockin' Relics"
+        ]
+    },
+    {
+        "name": "[4-A] Puzzle Piece #2",
+        "region": "[4-A] Rockin' Relics",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-A] Rockin' Relics"
+        ]
+    },
+    {
+        "name": "[4-A] Puzzle Piece #3",
+        "region": "[4-A] Rockin' Relics",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-A] Rockin' Relics"
+        ]
+    },
+    {
+        "name": "[4-A] Puzzle Piece #4",
+        "region": "[4-A] Rockin' Relics",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-A] Rockin' Relics"
+        ]
+    },
+    {
+        "name": "[4-A] Puzzle Piece #5",
+        "region": "[4-A] Rockin' Relics",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-A] Rockin' Relics"
+        ]
+    },
+    {
+        "name": "[4-A] Puzzle Piece #6",
+        "region": "[4-A] Rockin' Relics",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-A] Rockin' Relics"
+        ]
+    },
+    {
+        "name": "[4-A] Puzzle Piece #7",
+        "region": "[4-A] Rockin' Relics",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-A] Rockin' Relics"
+        ]
+    },
+    {
+        "name": "[4-A] Puzzle Piece #8",
+        "region": "[4-A] Rockin' Relics",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-A] Rockin' Relics"
+        ]
+    },
+    {
+        "name": "[4-A] Puzzle Piece #9",
+        "region": "[4-A] Rockin' Relics",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-A] Rockin' Relics"
+        ]
+    },
+    {
+        "name": "[4-B] Letter K",
+        "region": "[4-B] Shoal Atoll",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[4-B] Shoal Atoll"
+        ]
+    },
+    {
+        "name": "[4-B] Letter O",
+        "region": "[4-B] Shoal Atoll",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[4-B] Shoal Atoll"
+        ]
+    },
+    {
+        "name": "[4-B] Letter N",
+        "region": "[4-B] Shoal Atoll",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[4-B] Shoal Atoll"
+        ]
+    },
+    {
+        "name": "[4-B] Letter G",
+        "region": "[4-B] Shoal Atoll",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[4-B] Shoal Atoll"
+        ]
+    },
+    {
+        "name": "[4-B] Puzzle Piece #1",
+        "region": "[4-B] Shoal Atoll",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-B] Shoal Atoll"
+        ]
+    },
+    {
+        "name": "[4-B] Puzzle Piece #2",
+        "region": "[4-B] Shoal Atoll",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-B] Shoal Atoll"
+        ]
+    },
+    {
+        "name": "[4-B] Puzzle Piece #3",
+        "region": "[4-B] Shoal Atoll",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-B] Shoal Atoll"
+        ]
+    },
+    {
+        "name": "[4-B] Puzzle Piece #4",
+        "region": "[4-B] Shoal Atoll",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-B] Shoal Atoll"
+        ]
+    },
+    {
+        "name": "[4-B] Puzzle Piece #5",
+        "region": "[4-B] Shoal Atoll",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-B] Shoal Atoll"
+        ]
+    },
+    {
+        "name": "[4-2] Letter K",
+        "region": "[4-2] High Tide Ride",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[4-2] High Tide Ride"
+        ]
+    },
+    {
+        "name": "[4-2] Letter O",
+        "region": "[4-2] High Tide Ride",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[4-2] High Tide Ride"
+        ]
+    },
+    {
+        "name": "[4-2] Letter N",
+        "region": "[4-2] High Tide Ride",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[4-2] High Tide Ride"
+        ]
+    },
+    {
+        "name": "[4-2] Letter G",
+        "region": "[4-2] High Tide Ride",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[4-2] High Tide Ride"
+        ]
+    },
+    {
+        "name": "[4-2] Puzzle Piece #1",
+        "region": "[4-2] High Tide Ride",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-2] High Tide Ride"
+        ]
+    },
+    {
+        "name": "[4-2] Puzzle Piece #2",
+        "region": "[4-2] High Tide Ride",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-2] High Tide Ride"
+        ]
+    },
+    {
+        "name": "[4-2] Puzzle Piece #3",
+        "region": "[4-2] High Tide Ride",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-2] High Tide Ride"
+        ]
+    },
+    {
+        "name": "[4-2] Puzzle Piece #4",
+        "region": "[4-2] High Tide Ride",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-2] High Tide Ride"
+        ]
+    },
+    {
+        "name": "[4-2] Puzzle Piece #5",
+        "region": "[4-2] High Tide Ride",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-2] High Tide Ride"
+        ]
+    },
+    {
+        "name": "[4-3] Letter K",
+        "region": "[4-3] Amiss Abyss",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[4-3] Amiss Abyss"
+        ]
+    },
+    {
+        "name": "[4-3] Letter O",
+        "region": "[4-3] Amiss Abyss",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[4-3] Amiss Abyss"
+        ]
+    },
+    {
+        "name": "[4-3] Letter N",
+        "region": "[4-3] Amiss Abyss",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[4-3] Amiss Abyss"
+        ]
+    },
+    {
+        "name": "[4-3] Letter G",
+        "region": "[4-3] Amiss Abyss",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[4-3] Amiss Abyss"
+        ]
+    },
+    {
+        "name": "[4-3] Puzzle Piece #1",
+        "region": "[4-3] Amiss Abyss",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-3] Amiss Abyss"
+        ]
+    },
+    {
+        "name": "[4-3] Puzzle Piece #2",
+        "region": "[4-3] Amiss Abyss",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-3] Amiss Abyss"
+        ]
+    },
+    {
+        "name": "[4-3] Puzzle Piece #3",
+        "region": "[4-3] Amiss Abyss",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-3] Amiss Abyss"
+        ]
+    },
+    {
+        "name": "[4-3] Puzzle Piece #4",
+        "region": "[4-3] Amiss Abyss",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-3] Amiss Abyss"
+        ]
+    },
+    {
+        "name": "[4-3] Puzzle Piece #5",
+        "region": "[4-3] Amiss Abyss",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-3] Amiss Abyss"
+        ]
+    },
+    {
+        "name": "[4-3] Puzzle Piece #6",
+        "region": "[4-3] Amiss Abyss",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-3] Amiss Abyss"
+        ]
+    },
+    {
+        "name": "[4-3] Puzzle Piece #7",
+        "region": "[4-3] Amiss Abyss",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-3] Amiss Abyss"
+        ]
+    },
+    {
+        "name": "[4-3] Puzzle Piece #8",
+        "region": "[4-3] Amiss Abyss",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-3] Amiss Abyss"
+        ]
+    },
+    {
+        "name": "[4-3] Puzzle Piece #9",
+        "region": "[4-3] Amiss Abyss",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-3] Amiss Abyss"
+        ]
+    },
+    {
+        "name": "[4-4] Letter K",
+        "region": "[4-4] Irate Eight",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[4-4] Irate Eight"
+        ]
+    },
+    {
+        "name": "[4-4] Letter O",
+        "region": "[4-4] Irate Eight",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[4-4] Irate Eight"
+        ]
+    },
+    {
+        "name": "[4-4] Letter N",
+        "region": "[4-4] Irate Eight",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[4-4] Irate Eight"
+        ]
+    },
+    {
+        "name": "[4-4] Letter G",
+        "region": "[4-4] Irate Eight",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[4-4] Irate Eight"
+        ]
+    },
+    {
+        "name": "[4-4] Puzzle Piece #1",
+        "region": "[4-4] Irate Eight",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-4] Irate Eight"
+        ]
+    },
+    {
+        "name": "[4-4] Puzzle Piece #2",
+        "region": "[4-4] Irate Eight",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-4] Irate Eight"
+        ]
+    },
+    {
+        "name": "[4-4] Puzzle Piece #3",
+        "region": "[4-4] Irate Eight",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-4] Irate Eight"
+        ]
+    },
+    {
+        "name": "[4-4] Puzzle Piece #4",
+        "region": "[4-4] Irate Eight",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-4] Irate Eight"
+        ]
+    },
+    {
+        "name": "[4-4] Puzzle Piece #5",
+        "region": "[4-4] Irate Eight",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-4] Irate Eight"
+        ]
+    },
+    {
+        "name": "[4-5] Letter K",
+        "region": "[4-5] Sea Stack Attack",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[4-5] Sea Stack Attack"
+        ]
+    },
+    {
+        "name": "[4-5] Letter O",
+        "region": "[4-5] Sea Stack Attack",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[4-5] Sea Stack Attack"
+        ]
+    },
+    {
+        "name": "[4-5] Letter N",
+        "region": "[4-5] Sea Stack Attack",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[4-5] Sea Stack Attack"
+        ]
+    },
+    {
+        "name": "[4-5] Letter G",
+        "region": "[4-5] Sea Stack Attack",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[4-5] Sea Stack Attack"
+        ]
+    },
+    {
+        "name": "[4-5] Puzzle Piece #1",
+        "region": "[4-5] Sea Stack Attack",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-5] Sea Stack Attack"
+        ]
+    },
+    {
+        "name": "[4-5] Puzzle Piece #2",
+        "region": "[4-5] Sea Stack Attack",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-5] Sea Stack Attack"
+        ]
+    },
+    {
+        "name": "[4-5] Puzzle Piece #3",
+        "region": "[4-5] Sea Stack Attack",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-5] Sea Stack Attack"
+        ]
+    },
+    {
+        "name": "[4-5] Puzzle Piece #4",
+        "region": "[4-5] Sea Stack Attack",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-5] Sea Stack Attack"
+        ]
+    },
+    {
+        "name": "[4-5] Puzzle Piece #5",
+        "region": "[4-5] Sea Stack Attack",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-5] Sea Stack Attack"
+        ]
+    },
+    {
+        "name": "[4-5] Puzzle Piece #6",
+        "region": "[4-5] Sea Stack Attack",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-5] Sea Stack Attack"
+        ]
+    },
+    {
+        "name": "[4-5] Puzzle Piece #7",
+        "region": "[4-5] Sea Stack Attack",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-5] Sea Stack Attack"
+        ]
+    },
+    {
+        "name": "[4-6] Letter K",
+        "region": "[4-6] Current Capes",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[4-6] Current Capes"
+        ]
+    },
+    {
+        "name": "[4-6] Letter O",
+        "region": "[4-6] Current Capes",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[4-6] Current Capes"
+        ]
+    },
+    {
+        "name": "[4-6] Letter N",
+        "region": "[4-6] Current Capes",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[4-6] Current Capes"
+        ]
+    },
+    {
+        "name": "[4-6] Letter G",
+        "region": "[4-6] Current Capes",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[4-6] Current Capes"
+        ]
+    },
+    {
+        "name": "[4-6] Puzzle Piece #1",
+        "region": "[4-6] Current Capes",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-6] Current Capes"
+        ]
+    },
+    {
+        "name": "[4-6] Puzzle Piece #2",
+        "region": "[4-6] Current Capes",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-6] Current Capes"
+        ]
+    },
+    {
+        "name": "[4-6] Puzzle Piece #3",
+        "region": "[4-6] Current Capes",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-6] Current Capes"
+        ]
+    },
+    {
+        "name": "[4-6] Puzzle Piece #4",
+        "region": "[4-6] Current Capes",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-6] Current Capes"
+        ]
+    },
+    {
+        "name": "[4-6] Puzzle Piece #5",
+        "region": "[4-6] Current Capes",
+        "requires": "|Dixie Kong| OR |Cranky Kong|",
+        "category": [
+            "Puzzle Pieces",
+            "[4-6] Current Capes"
+        ]
+    },
+    {
+        "name": "[4-K] Puzzle Piece #1",
+        "region": "[4-K] Spinning Spines",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-K] Spinning Spines"
+        ]
+    },
+    {
+        "name": "[4-K] Puzzle Piece #2",
+        "region": "[4-K] Spinning Spines",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-K] Spinning Spines"
+        ]
+    },
+    {
+        "name": "[4-K] Puzzle Piece #3",
+        "region": "[4-K] Spinning Spines",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-K] Spinning Spines"
+        ]
+    },
+    {
+        "name": "[4-K] Puzzle Piece #4",
+        "region": "[4-K] Spinning Spines",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-K] Spinning Spines"
+        ]
+    },
+    {
+        "name": "[4-K] Puzzle Piece #5",
+        "region": "[4-K] Spinning Spines",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[4-K] Spinning Spines"
+        ]
+    },
+    {
+        "name": "Defeat Fugu, the Frightening",
+        "region": "[4-Boss] Fugu Face-Off",
+        "requires": [],
+        "category": [
+            "Bosses",
+            "[4-Boss] Fugu Face-Off"
+        ],
+        "place_item": "|Boss Barrel|"
+    },
+    {
+        "name": "[5-1] Letter K",
+        "region": "[5-1] Harvest Hazards",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[5-1] Harvest Hazards"
+        ]
+    },
+    {
+        "name": "[5-1] Letter O",
+        "region": "[5-1] Harvest Hazards",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[5-1] Harvest Hazards"
+        ]
+    },
+    {
+        "name": "[5-1] Letter N",
+        "region": "[5-1] Harvest Hazards",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[5-1] Harvest Hazards"
+        ]
+    },
+    {
+        "name": "[5-1] Letter G",
+        "region": "[5-1] Harvest Hazards",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[5-1] Harvest Hazards"
+        ]
+    },
+    {
+        "name": "[5-1] Puzzle Piece #1",
+        "region": "[5-1] Harvest Hazards",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-1] Harvest Hazards"
+        ]
+    },
+    {
+        "name": "[5-1] Puzzle Piece #2",
+        "region": "[5-1] Harvest Hazards",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-1] Harvest Hazards"
+        ]
+    },
+    {
+        "name": "[5-1] Puzzle Piece #3",
+        "region": "[5-1] Harvest Hazards",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-1] Harvest Hazards"
+        ]
+    },
+    {
+        "name": "[5-1] Puzzle Piece #4",
+        "region": "[5-1] Harvest Hazards",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-1] Harvest Hazards"
+        ]
+    },
+    {
+        "name": "[5-1] Puzzle Piece #5",
+        "region": "[5-1] Harvest Hazards",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-1] Harvest Hazards"
+        ]
+    },
+    {
+        "name": "[5-1] Puzzle Piece #6",
+        "region": "[5-1] Harvest Hazards",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-1] Harvest Hazards"
+        ]
+    },
+    {
+        "name": "[5-1] Puzzle Piece #7",
+        "region": "[5-1] Harvest Hazards",
+        "requires": "|Dixie Kong| OR |Cranky Kong|",
+        "category": [
+            "Puzzle Pieces",
+            "[5-1] Harvest Hazards"
+        ]
+    },
+    {
+        "name": "[5-2] Letter K",
+        "region": "[5-2] Reckless Ride",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[5-2] Reckless Ride"
+        ]
+    },
+    {
+        "name": "[5-2] Letter O",
+        "region": "[5-2] Reckless Ride",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[5-2] Reckless Ride"
+        ]
+    },
+    {
+        "name": "[5-2] Letter N",
+        "region": "[5-2] Reckless Ride",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[5-2] Reckless Ride"
+        ]
+    },
+    {
+        "name": "[5-2] Letter G",
+        "region": "[5-2] Reckless Ride",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[5-2] Reckless Ride"
+        ]
+    },
+    {
+        "name": "[5-2] Puzzle Piece #1",
+        "region": "[5-2] Reckless Ride",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-2] Reckless Ride"
+        ]
+    },
+    {
+        "name": "[5-2] Puzzle Piece #2",
+        "region": "[5-2] Reckless Ride",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-2] Reckless Ride"
+        ]
+    },
+    {
+        "name": "[5-2] Puzzle Piece #3",
+        "region": "[5-2] Reckless Ride",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-2] Reckless Ride"
+        ]
+    },
+    {
+        "name": "[5-2] Puzzle Piece #4",
+        "region": "[5-2] Reckless Ride",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-2] Reckless Ride"
+        ]
+    },
+    {
+        "name": "[5-2] Puzzle Piece #5",
+        "region": "[5-2] Reckless Ride",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-2] Reckless Ride"
+        ]
+    },
+    {
+        "name": "[5-3] Letter K",
+        "region": "[5-3] Fruity Factory",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[5-3] Fruity Factory"
+        ]
+    },
+    {
+        "name": "[5-3] Letter O",
+        "region": "[5-3] Fruity Factory",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[5-3] Fruity Factory"
+        ]
+    },
+    {
+        "name": "[5-3] Letter N",
+        "region": "[5-3] Fruity Factory",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[5-3] Fruity Factory"
+        ]
+    },
+    {
+        "name": "[5-3] Letter G",
+        "region": "[5-3] Fruity Factory",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[5-3] Fruity Factory"
+        ]
+    },
+    {
+        "name": "[5-3] Puzzle Piece #1",
+        "region": "[5-3] Fruity Factory",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-3] Fruity Factory"
+        ]
+    },
+    {
+        "name": "[5-3] Puzzle Piece #2",
+        "region": "[5-3] Fruity Factory",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-3] Fruity Factory"
+        ]
+    },
+    {
+        "name": "[5-3] Puzzle Piece #3",
+        "region": "[5-3] Fruity Factory",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-3] Fruity Factory"
+        ]
+    },
+    {
+        "name": "[5-3] Puzzle Piece #4",
+        "region": "[5-3] Fruity Factory",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-3] Fruity Factory"
+        ]
+    },
+    {
+        "name": "[5-3] Puzzle Piece #5",
+        "region": "[5-3] Fruity Factory",
+        "requires": "|Dixie Kong| OR |Cranky Kong|",
+        "category": [
+            "Puzzle Pieces",
+            "[5-3] Fruity Factory"
+        ]
+    },
+    {
+        "name": "[5-A] Letter K",
+        "region": "[5-A] Beehive Brawl",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[5-A] Beehive Brawl"
+        ]
+    },
+    {
+        "name": "[5-A] Letter O",
+        "region": "[5-A] Beehive Brawl",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[5-A] Beehive Brawl"
+        ]
+    },
+    {
+        "name": "[5-A] Letter N",
+        "region": "[5-A] Beehive Brawl",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[5-A] Beehive Brawl"
+        ]
+    },
+    {
+        "name": "[5-A] Letter G",
+        "region": "[5-A] Beehive Brawl",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[5-A] Beehive Brawl"
+        ]
+    },
+    {
+        "name": "[5-A] Puzzle Piece #1",
+        "region": "[5-A] Beehive Brawl",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-A] Beehive Brawl"
+        ]
+    },
+    {
+        "name": "[5-A] Puzzle Piece #2",
+        "region": "[5-A] Beehive Brawl",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-A] Beehive Brawl"
+        ]
+    },
+    {
+        "name": "[5-A] Puzzle Piece #3",
+        "region": "[5-A] Beehive Brawl",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-A] Beehive Brawl"
+        ]
+    },
+    {
+        "name": "[5-A] Puzzle Piece #4",
+        "region": "[5-A] Beehive Brawl",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-A] Beehive Brawl"
+        ]
+    },
+    {
+        "name": "[5-A] Puzzle Piece #5",
+        "region": "[5-A] Beehive Brawl",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-A] Beehive Brawl"
+        ]
+    },
+    {
+        "name": "[5-A] Puzzle Piece #6",
+        "region": "[5-A] Beehive Brawl",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-A] Beehive Brawl"
+        ]
+    },
+    {
+        "name": "[5-A] Puzzle Piece #7",
+        "region": "[5-A] Beehive Brawl",
+        "requires": "|Cranky Kong|",
+        "category": [
+            "Puzzle Pieces",
+            "[5-A] Beehive Brawl"
+        ]
+    },
+    {
+        "name": "[5-4] Letter K",
+        "region": "[5-4] Panicky Paddles",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[5-4] Panicky Paddles"
+        ]
+    },
+    {
+        "name": "[5-4] Letter O",
+        "region": "[5-4] Panicky Paddles",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[5-4] Panicky Paddles"
+        ]
+    },
+    {
+        "name": "[5-4] Letter N",
+        "region": "[5-4] Panicky Paddles",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[5-4] Panicky Paddles"
+        ]
+    },
+    {
+        "name": "[5-4] Letter G",
+        "region": "[5-4] Panicky Paddles",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[5-4] Panicky Paddles"
+        ]
+    },
+    {
+        "name": "[5-4] Puzzle Piece #1",
+        "region": "[5-4] Panicky Paddles",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-4] Panicky Paddles"
+        ]
+    },
+    {
+        "name": "[5-4] Puzzle Piece #2",
+        "region": "[5-4] Panicky Paddles",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-4] Panicky Paddles"
+        ]
+    },
+    {
+        "name": "[5-4] Puzzle Piece #3",
+        "region": "[5-4] Panicky Paddles",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-4] Panicky Paddles"
+        ]
+    },
+    {
+        "name": "[5-4] Puzzle Piece #4",
+        "region": "[5-4] Panicky Paddles",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-4] Panicky Paddles"
+        ]
+    },
+    {
+        "name": "[5-4] Puzzle Piece #5",
+        "region": "[5-4] Panicky Paddles",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-4] Panicky Paddles"
+        ]
+    },
+    {
+        "name": "[5-4] Puzzle Piece #6",
+        "region": "[5-4] Panicky Paddles",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-4] Panicky Paddles"
+        ]
+    },
+    {
+        "name": "[5-4] Puzzle Piece #7",
+        "region": "[5-4] Panicky Paddles",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-4] Panicky Paddles"
+        ]
+    },
+    {
+        "name": "[5-4] Puzzle Piece #8",
+        "region": "[5-4] Panicky Paddles",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-4] Panicky Paddles"
+        ]
+    },
+    {
+        "name": "[5-4] Puzzle Piece #9",
+        "region": "[5-4] Panicky Paddles",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-4] Panicky Paddles"
+        ]
+    },
+    {
+        "name": "[5-5] Letter K",
+        "region": "[5-5] Jelly Jamboree",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[5-5] Jelly Jamboree"
+        ]
+    },
+    {
+        "name": "[5-5] Letter O",
+        "region": "[5-5] Jelly Jamboree",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[5-5] Jelly Jamboree"
+        ]
+    },
+    {
+        "name": "[5-5] Letter N",
+        "region": "[5-5] Jelly Jamboree",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[5-5] Jelly Jamboree"
+        ]
+    },
+    {
+        "name": "[5-5] Letter G",
+        "region": "[5-5] Jelly Jamboree",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[5-5] Jelly Jamboree"
+        ]
+    },
+    {
+        "name": "[5-5] Puzzle Piece #1",
+        "region": "[5-5] Jelly Jamboree",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-5] Jelly Jamboree"
+        ]
+    },
+    {
+        "name": "[5-5] Puzzle Piece #2",
+        "region": "[5-5] Jelly Jamboree",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-5] Jelly Jamboree"
+        ]
+    },
+    {
+        "name": "[5-5] Puzzle Piece #3",
+        "region": "[5-5] Jelly Jamboree",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-5] Jelly Jamboree"
+        ]
+    },
+    {
+        "name": "[5-5] Puzzle Piece #4",
+        "region": "[5-5] Jelly Jamboree",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-5] Jelly Jamboree"
+        ]
+    },
+    {
+        "name": "[5-5] Puzzle Piece #5",
+        "region": "[5-5] Jelly Jamboree",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-5] Jelly Jamboree"
+        ]
+    },
+    {
+        "name": "[5-5] Puzzle Piece #6",
+        "region": "[5-5] Jelly Jamboree",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-5] Jelly Jamboree"
+        ]
+    },
+    {
+        "name": "[5-5] Puzzle Piece #7",
+        "region": "[5-5] Jelly Jamboree",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-5] Jelly Jamboree"
+        ]
+    },
+    {
+        "name": "[5-B] Letter K",
+        "region": "[5-B] Jammin Jam'",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[5-B] Jammin Jam'"
+        ]
+    },
+    {
+        "name": "[5-B] Letter O",
+        "region": "[5-B] Jammin Jam'",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[5-B] Jammin Jam'"
+        ]
+    },
+    {
+        "name": "[5-B] Letter N",
+        "region": "[5-B] Jammin Jam'",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[5-B] Jammin Jam'"
+        ]
+    },
+    {
+        "name": "[5-B] Letter G",
+        "region": "[5-B] Jammin Jam'",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[5-B] Jammin Jam'"
+        ]
+    },
+    {
+        "name": "[5-B] Puzzle Piece #1",
+        "region": "[5-B] Jammin Jam'",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-B] Jammin Jam'"
+        ]
+    },
+    {
+        "name": "[5-B] Puzzle Piece #2",
+        "region": "[5-B] Jammin Jam'",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-B] Jammin Jam'"
+        ]
+    },
+    {
+        "name": "[5-B] Puzzle Piece #3",
+        "region": "[5-B] Jammin Jam'",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-B] Jammin Jam'"
+        ]
+    },
+    {
+        "name": "[5-B] Puzzle Piece #4",
+        "region": "[5-B] Jammin Jam'",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-B] Jammin Jam'"
+        ]
+    },
+    {
+        "name": "[5-B] Puzzle Piece #5",
+        "region": "[5-B] Jammin Jam'",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-B] Jammin Jam'"
+        ]
+    },
+    {
+        "name": "[5-6] Letter K",
+        "region": "[5-6] Frosty Fruits",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[5-6] Frosty Fruits"
+        ]
+    },
+    {
+        "name": "[5-6] Letter O",
+        "region": "[5-6] Frosty Fruits",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[5-6] Frosty Fruits"
+        ]
+    },
+    {
+        "name": "[5-6] Letter N",
+        "region": "[5-6] Frosty Fruits",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[5-6] Frosty Fruits"
+        ]
+    },
+    {
+        "name": "[5-6] Letter G",
+        "region": "[5-6] Frosty Fruits",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[5-6] Frosty Fruits"
+        ]
+    },
+    {
+        "name": "[5-6] Puzzle Piece #1",
+        "region": "[5-6] Frosty Fruits",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-6] Frosty Fruits"
+        ]
+    },
+    {
+        "name": "[5-6] Puzzle Piece #2",
+        "region": "[5-6] Frosty Fruits",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-6] Frosty Fruits"
+        ]
+    },
+    {
+        "name": "[5-6] Puzzle Piece #3",
+        "region": "[5-6] Frosty Fruits",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-6] Frosty Fruits"
+        ]
+    },
+    {
+        "name": "[5-6] Puzzle Piece #4",
+        "region": "[5-6] Frosty Fruits",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-6] Frosty Fruits"
+        ]
+    },
+    {
+        "name": "[5-6] Puzzle Piece #5",
+        "region": "[5-6] Frosty Fruits",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-6] Frosty Fruits"
+        ]
+    },
+    {
+        "name": "[5-K] Puzzle Piece #1",
+        "region": "[5-K] Platform Problems",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-K] Platform Problems"
+        ]
+    },
+    {
+        "name": "[5-K] Puzzle Piece #2",
+        "region": "[5-K] Platform Problems",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-K] Platform Problems"
+        ]
+    },
+    {
+        "name": "[5-K] Puzzle Piece #3",
+        "region": "[5-K] Platform Problems",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-K] Platform Problems"
+        ]
+    },
+    {
+        "name": "[5-K] Puzzle Piece #4",
+        "region": "[5-K] Platform Problems",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-K] Platform Problems"
+        ]
+    },
+    {
+        "name": "[5-K] Puzzle Piece #5",
+        "region": "[5-K] Platform Problems",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[5-K] Platform Problems"
+        ]
+    },
+    {
+        "name": "Defeat Bashmaster, the Unbreakable",
+        "region": "[5-Boss] Punch Bowl",
+        "requires": [],
+        "category": [
+            "Bosses",
+            "[5-Boss] Punch Bowl"
+        ],
+        "place_item": "|Boss Barrel|"
+    },
+    {
+        "name": "[6-1] Letter K",
+        "region": "[6-1] Homecoming Hijinks",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[6-1] Homecoming Hijinks"
+        ]
+    },
+    {
+        "name": "[6-1] Letter O",
+        "region": "[6-1] Homecoming Hijinks",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[6-1] Homecoming Hijinks"
+        ]
+    },
+    {
+        "name": "[6-1] Letter N",
+        "region": "[6-1] Homecoming Hijinks",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[6-1] Homecoming Hijinks"
+        ]
+    },
+    {
+        "name": "[6-1] Letter G",
+        "region": "[6-1] Homecoming Hijinks",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[6-1] Homecoming Hijinks"
+        ]
+    },
+    {
+        "name": "[6-1] Puzzle Piece #1",
+        "region": "[6-1] Homecoming Hijinks",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-1] Homecoming Hijinks"
+        ]
+    },
+    {
+        "name": "[6-1] Puzzle Piece #2",
+        "region": "[6-1] Homecoming Hijinks",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-1] Homecoming Hijinks"
+        ]
+    },
+    {
+        "name": "[6-1] Puzzle Piece #3",
+        "region": "[6-1] Homecoming Hijinks",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-1] Homecoming Hijinks"
+        ]
+    },
+    {
+        "name": "[6-1] Puzzle Piece #4",
+        "region": "[6-1] Homecoming Hijinks",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-1] Homecoming Hijinks"
+        ]
+    },
+    {
+        "name": "[6-1] Puzzle Piece #5",
+        "region": "[6-1] Homecoming Hijinks",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-1] Homecoming Hijinks"
+        ]
+    },
+    {
+        "name": "[6-2] Letter K",
+        "region": "[6-2] Seashore War",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[6-2] Seashore War"
+        ]
+    },
+    {
+        "name": "[6-2] Letter O",
+        "region": "[6-2] Seashore War",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[6-2] Seashore War"
+        ]
+    },
+    {
+        "name": "[6-2] Letter N",
+        "region": "[6-2] Seashore War",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[6-2] Seashore War"
+        ]
+    },
+    {
+        "name": "[6-2] Letter G",
+        "region": "[6-2] Seashore War",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[6-2] Seashore War"
+        ]
+    },
+    {
+        "name": "[6-2] Puzzle Piece #1",
+        "region": "[6-2] Seashore War",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-2] Seashore War"
+        ]
+    },
+    {
+        "name": "[6-2] Puzzle Piece #2",
+        "region": "[6-2] Seashore War",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-2] Seashore War"
+        ]
+    },
+    {
+        "name": "[6-2] Puzzle Piece #3",
+        "region": "[6-2] Seashore War",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-2] Seashore War"
+        ]
+    },
+    {
+        "name": "[6-2] Puzzle Piece #4",
+        "region": "[6-2] Seashore War",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-2] Seashore War"
+        ]
+    },
+    {
+        "name": "[6-2] Puzzle Piece #5",
+        "region": "[6-2] Seashore War",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-2] Seashore War"
+        ]
+    },
+    {
+        "name": "[6-3] Letter K",
+        "region": "[6-3] Aqueduct Assault",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[6-3] Aqueduct Assault"
+        ]
+    },
+    {
+        "name": "[6-3] Letter O",
+        "region": "[6-3] Aqueduct Assault",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[6-3] Aqueduct Assault"
+        ]
+    },
+    {
+        "name": "[6-3] Letter N",
+        "region": "[6-3] Aqueduct Assault",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[6-3] Aqueduct Assault"
+        ]
+    },
+    {
+        "name": "[6-3] Letter G",
+        "region": "[6-3] Aqueduct Assault",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[6-3] Aqueduct Assault"
+        ]
+    },
+    {
+        "name": "[6-3] Puzzle Piece #1",
+        "region": "[6-3] Aqueduct Assault",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-3] Aqueduct Assault"
+        ]
+    },
+    {
+        "name": "[6-3] Puzzle Piece #2",
+        "region": "[6-3] Aqueduct Assault",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-3] Aqueduct Assault"
+        ]
+    },
+    {
+        "name": "[6-3] Puzzle Piece #3",
+        "region": "[6-3] Aqueduct Assault",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-3] Aqueduct Assault"
+        ]
+    },
+    {
+        "name": "[6-3] Puzzle Piece #4",
+        "region": "[6-3] Aqueduct Assault",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-3] Aqueduct Assault"
+        ]
+    },
+    {
+        "name": "[6-3] Puzzle Piece #5",
+        "region": "[6-3] Aqueduct Assault",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-3] Aqueduct Assault"
+        ]
+    },
+    {
+        "name": "[6-4] Letter K",
+        "region": "[6-4] Blurry Flurry",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[6-4] Blurry Flurry"
+        ]
+    },
+    {
+        "name": "[6-4] Letter O",
+        "region": "[6-4] Blurry Flurry",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[6-4] Blurry Flurry"
+        ]
+    },
+    {
+        "name": "[6-4] Letter N",
+        "region": "[6-4] Blurry Flurry",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[6-4] Blurry Flurry"
+        ]
+    },
+    {
+        "name": "[6-4] Letter G",
+        "region": "[6-4] Blurry Flurry",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[6-4] Blurry Flurry"
+        ]
+    },
+    {
+        "name": "[6-4] Puzzle Piece #1",
+        "region": "[6-4] Blurry Flurry",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-4] Blurry Flurry"
+        ]
+    },
+    {
+        "name": "[6-4] Puzzle Piece #2",
+        "region": "[6-4] Blurry Flurry",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-4] Blurry Flurry"
+        ]
+    },
+    {
+        "name": "[6-4] Puzzle Piece #3",
+        "region": "[6-4] Blurry Flurry",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-4] Blurry Flurry"
+        ]
+    },
+    {
+        "name": "[6-4] Puzzle Piece #4",
+        "region": "[6-4] Blurry Flurry",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-4] Blurry Flurry"
+        ]
+    },
+    {
+        "name": "[6-4] Puzzle Piece #5",
+        "region": "[6-4] Blurry Flurry",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-4] Blurry Flurry"
+        ]
+    },
+    {
+        "name": "[6-4] Puzzle Piece #6",
+        "region": "[6-4] Blurry Flurry",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-4] Blurry Flurry"
+        ]
+    },
+    {
+        "name": "[6-4] Puzzle Piece #7",
+        "region": "[6-4] Blurry Flurry",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-4] Blurry Flurry"
+        ]
+    },
+    {
+        "name": "[6-5] Letter K",
+        "region": "[6-5] Forest Folly",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[6-5] Forest Folly"
+        ]
+    },
+    {
+        "name": "[6-5] Letter O",
+        "region": "[6-5] Forest Folly",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[6-5] Forest Folly"
+        ]
+    },
+    {
+        "name": "[6-5] Letter N",
+        "region": "[6-5] Forest Folly",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[6-5] Forest Folly"
+        ]
+    },
+    {
+        "name": "[6-5] Letter G",
+        "region": "[6-5] Forest Folly",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[6-5] Forest Folly"
+        ]
+    },
+    {
+        "name": "[6-5] Puzzle Piece #1",
+        "region": "[6-5] Forest Folly",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-5] Forest Folly"
+        ]
+    },
+    {
+        "name": "[6-5] Puzzle Piece #2",
+        "region": "[6-5] Forest Folly",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-5] Forest Folly"
+        ]
+    },
+    {
+        "name": "[6-5] Puzzle Piece #3",
+        "region": "[6-5] Forest Folly",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-5] Forest Folly"
+        ]
+    },
+    {
+        "name": "[6-5] Puzzle Piece #4",
+        "region": "[6-5] Forest Folly",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-5] Forest Folly"
+        ]
+    },
+    {
+        "name": "[6-5] Puzzle Piece #5",
+        "region": "[6-5] Forest Folly",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-5] Forest Folly"
+        ]
+    },
+    {
+        "name": "[6-6] Letter K",
+        "region": "[6-6] Cliffside Slide",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[6-6] Cliffside Slide"
+        ]
+    },
+    {
+        "name": "[6-6] Letter O",
+        "region": "[6-6] Cliffside Slide",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[6-6] Cliffside Slide"
+        ]
+    },
+    {
+        "name": "[6-6] Letter N",
+        "region": "[6-6] Cliffside Slide",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[6-6] Cliffside Slide"
+        ]
+    },
+    {
+        "name": "[6-6] Letter G",
+        "region": "[6-6] Cliffside Slide",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[6-6] Cliffside Slide"
+        ]
+    },
+    {
+        "name": "[6-6] Puzzle Piece #1",
+        "region": "[6-6] Cliffside Slide",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-6] Cliffside Slide"
+        ]
+    },
+    {
+        "name": "[6-6] Puzzle Piece #2",
+        "region": "[6-6] Cliffside Slide",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-6] Cliffside Slide"
+        ]
+    },
+    {
+        "name": "[6-6] Puzzle Piece #3",
+        "region": "[6-6] Cliffside Slide",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-6] Cliffside Slide"
+        ]
+    },
+    {
+        "name": "[6-6] Puzzle Piece #4",
+        "region": "[6-6] Cliffside Slide",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-6] Cliffside Slide"
+        ]
+    },
+    {
+        "name": "[6-6] Puzzle Piece #5",
+        "region": "[6-6] Cliffside Slide",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-6] Cliffside Slide"
+        ]
+    },
+    {
+        "name": "[6-7] Letter K",
+        "region": "[6-7] Frozen Frenzy",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[6-7] Frozen Frenzy"
+        ]
+    },
+    {
+        "name": "[6-7] Letter O",
+        "region": "[6-7] Frozen Frenzy",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[6-7] Frozen Frenzy"
+        ]
+    },
+    {
+        "name": "[6-7] Letter N",
+        "region": "[6-7] Frozen Frenzy",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[6-7] Frozen Frenzy"
+        ]
+    },
+    {
+        "name": "[6-7] Letter G",
+        "region": "[6-7] Frozen Frenzy",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[6-7] Frozen Frenzy"
+        ]
+    },
+    {
+        "name": "[6-7] Puzzle Piece #1",
+        "region": "[6-7] Frozen Frenzy",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-7] Frozen Frenzy"
+        ]
+    },
+    {
+        "name": "[6-7] Puzzle Piece #2",
+        "region": "[6-7] Frozen Frenzy",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-7] Frozen Frenzy"
+        ]
+    },
+    {
+        "name": "[6-7] Puzzle Piece #3",
+        "region": "[6-7] Frozen Frenzy",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-7] Frozen Frenzy"
+        ]
+    },
+    {
+        "name": "[6-7] Puzzle Piece #4",
+        "region": "[6-7] Frozen Frenzy",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-7] Frozen Frenzy"
+        ]
+    },
+    {
+        "name": "[6-7] Puzzle Piece #5",
+        "region": "[6-7] Frozen Frenzy",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-7] Frozen Frenzy"
+        ]
+    },
+    {
+        "name": "[6-A] Letter K",
+        "region": "[6-A] Dynamite Dash",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[6-A] Dynamite Dash"
+        ]
+    },
+    {
+        "name": "[6-A] Letter O",
+        "region": "[6-A] Dynamite Dash",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[6-A] Dynamite Dash"
+        ]
+    },
+    {
+        "name": "[6-A] Letter N",
+        "region": "[6-A] Dynamite Dash",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[6-A] Dynamite Dash"
+        ]
+    },
+    {
+        "name": "[6-A] Letter G",
+        "region": "[6-A] Dynamite Dash",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[6-A] Dynamite Dash"
+        ]
+    },
+    {
+        "name": "[6-A] Puzzle Piece #1",
+        "region": "[6-A] Dynamite Dash",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-A] Dynamite Dash"
+        ]
+    },
+    {
+        "name": "[6-A] Puzzle Piece #2",
+        "region": "[6-A] Dynamite Dash",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-A] Dynamite Dash"
+        ]
+    },
+    {
+        "name": "[6-A] Puzzle Piece #3",
+        "region": "[6-A] Dynamite Dash",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-A] Dynamite Dash"
+        ]
+    },
+    {
+        "name": "[6-A] Puzzle Piece #4",
+        "region": "[6-A] Dynamite Dash",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-A] Dynamite Dash"
+        ]
+    },
+    {
+        "name": "[6-A] Puzzle Piece #5",
+        "region": "[6-A] Dynamite Dash",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-A] Dynamite Dash"
+        ]
+    },
+    {
+        "name": "[6-B] Letter K",
+        "region": "[6-B] Icicle Arsenal",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[6-B] Icicle Arsenal"
+        ]
+    },
+    {
+        "name": "[6-B] Letter O",
+        "region": "[6-B] Icicle Arsenal",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[6-B] Icicle Arsenal"
+        ]
+    },
+    {
+        "name": "[6-B] Letter N",
+        "region": "[6-B] Icicle Arsenal",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[6-B] Icicle Arsenal"
+        ]
+    },
+    {
+        "name": "[6-B] Letter G",
+        "region": "[6-B] Icicle Arsenal",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[6-B] Icicle Arsenal"
+        ]
+    },
+    {
+        "name": "[6-B] Puzzle Piece #1",
+        "region": "[6-B] Icicle Arsenal",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-B] Icicle Arsenal"
+        ]
+    },
+    {
+        "name": "[6-B] Puzzle Piece #2",
+        "region": "[6-B] Icicle Arsenal",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-B] Icicle Arsenal"
+        ]
+    },
+    {
+        "name": "[6-B] Puzzle Piece #3",
+        "region": "[6-B] Icicle Arsenal",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-B] Icicle Arsenal"
+        ]
+    },
+    {
+        "name": "[6-B] Puzzle Piece #4",
+        "region": "[6-B] Icicle Arsenal",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-B] Icicle Arsenal"
+        ]
+    },
+    {
+        "name": "[6-B] Puzzle Piece #5",
+        "region": "[6-B] Icicle Arsenal",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-B] Icicle Arsenal"
+        ]
+    },
+    {
+        "name": "[6-B] Puzzle Piece #6",
+        "region": "[6-B] Icicle Arsenal",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-B] Icicle Arsenal"
+        ]
+    },
+    {
+        "name": "[6-B] Puzzle Piece #7",
+        "region": "[6-B] Icicle Arsenal",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-B] Icicle Arsenal"
+        ]
+    },
+    {
+        "name": "[6-8] Letter K",
+        "region": "[6-8] Meltdown Mayhem",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[6-8] Meltdown Mayhem"
+        ]
+    },
+    {
+        "name": "[6-8] Letter O",
+        "region": "[6-8] Meltdown Mayhem",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[6-8] Meltdown Mayhem"
+        ]
+    },
+    {
+        "name": "[6-8] Letter N",
+        "region": "[6-8] Meltdown Mayhem",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[6-8] Meltdown Mayhem"
+        ]
+    },
+    {
+        "name": "[6-8] Letter G",
+        "region": "[6-8] Meltdown Mayhem",
+        "requires": [],
+        "category": [
+            "KONG Letters",
+            "[6-8] Meltdown Mayhem"
+        ]
+    },
+    {
+        "name": "[6-8] Puzzle Piece #1",
+        "region": "[6-8] Meltdown Mayhem",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-8] Meltdown Mayhem"
+        ]
+    },
+    {
+        "name": "[6-8] Puzzle Piece #2",
+        "region": "[6-8] Meltdown Mayhem",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-8] Meltdown Mayhem"
+        ]
+    },
+    {
+        "name": "[6-8] Puzzle Piece #3",
+        "region": "[6-8] Meltdown Mayhem",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-8] Meltdown Mayhem"
+        ]
+    },
+    {
+        "name": "[6-8] Puzzle Piece #4",
+        "region": "[6-8] Meltdown Mayhem",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-8] Meltdown Mayhem"
+        ]
+    },
+    {
+        "name": "[6-8] Puzzle Piece #5",
+        "region": "[6-8] Meltdown Mayhem",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-8] Meltdown Mayhem"
+        ]
+    },
+    {
+        "name": "[6-K] Puzzle Piece #1",
+        "region": "[6-K] Slippery Spikes",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-K] Slippery Spikes"
+        ]
+    },
+    {
+        "name": "[6-K] Puzzle Piece #2",
+        "region": "[6-K] Slippery Spikes",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-K] Slippery Spikes"
+        ]
+    },
+    {
+        "name": "[6-K] Puzzle Piece #3",
+        "region": "[6-K] Slippery Spikes",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-K] Slippery Spikes"
+        ]
+    },
+    {
+        "name": "[6-K] Puzzle Piece #4",
+        "region": "[6-K] Slippery Spikes",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-K] Slippery Spikes"
+        ]
+    },
+    {
+        "name": "[6-K] Puzzle Piece #5",
+        "region": "[6-K] Slippery Spikes",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[6-K] Slippery Spikes"
+        ]
+    },
+    {
+        "name": "Defeat Lord Fredrik, the Snowmad King",
+        "region": "[6-Boss] Volcano Dome",
+        "requires": [],
+        "category": [
+            "Bosses",
+            "[6-Boss] Volcano Dome"
+        ],
+        "place_item": "|Boss Barrel|"
+    },
+    {
+        "name": "[7-1] Puzzle Piece #1",
+        "region": "[7-1] Levitation Station",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[7-1] Levitation Station"
+        ]
+    },
+    {
+        "name": "[7-1] Puzzle Piece #2",
+        "region": "[7-1] Levitation Station",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[7-1] Levitation Station"
+        ]
+    },
+    {
+        "name": "[7-1] Puzzle Piece #3",
+        "region": "[7-1] Levitation Station",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[7-1] Levitation Station"
+        ]
+    },
+    {
+        "name": "[7-1] Puzzle Piece #4",
+        "region": "[7-1] Levitation Station",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[7-1] Levitation Station"
+        ]
+    },
+    {
+        "name": "[7-1] Puzzle Piece #5",
+        "region": "[7-1] Levitation Station",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[7-1] Levitation Station"
+        ]
+    },
+    {
+        "name": "[7-2] Puzzle Piece #1",
+        "region": "[7-2] Rocket Rails",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[7-2] Rocket Rails"
+        ]
+    },
+    {
+        "name": "[7-2] Puzzle Piece #2",
+        "region": "[7-2] Rocket Rails",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[7-2] Rocket Rails"
+        ]
+    },
+    {
+        "name": "[7-2] Puzzle Piece #3",
+        "region": "[7-2] Rocket Rails",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[7-2] Rocket Rails"
+        ]
+    },
+    {
+        "name": "[7-2] Puzzle Piece #4",
+        "region": "[7-2] Rocket Rails",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[7-2] Rocket Rails"
+        ]
+    },
+    {
+        "name": "[7-2] Puzzle Piece #5",
+        "region": "[7-2] Rocket Rails",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[7-2] Rocket Rails"
+        ]
+    },
+    {
+        "name": "[7-3] Puzzle Piece #1",
+        "region": "[7-3] Crazy Clouds",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[7-3] Crazy Clouds"
+        ]
+    },
+    {
+        "name": "[7-3] Puzzle Piece #2",
+        "region": "[7-3] Crazy Clouds",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[7-3] Crazy Clouds"
+        ]
+    },
+    {
+        "name": "[7-3] Puzzle Piece #3",
+        "region": "[7-3] Crazy Clouds",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[7-3] Crazy Clouds"
+        ]
+    },
+    {
+        "name": "[7-3] Puzzle Piece #4",
+        "region": "[7-3] Crazy Clouds",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[7-3] Crazy Clouds"
+        ]
+    },
+    {
+        "name": "[7-3] Puzzle Piece #5",
+        "region": "[7-3] Crazy Clouds",
+        "requires": [],
+        "category": [
+            "Puzzle Pieces",
+            "[7-3] Crazy Clouds"
+        ]
+    }
+]
