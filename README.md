@@ -1,3 +1,5 @@
-# Archipelago Manual Donkey Kong Country Tropical Freeze
+# Donkey Kong Country Tropical Freeze Manual Archipelago World
 
-I'll fill this out soon
+**⚠ This world is currently a Work In Progress! ⚠**
+
+Documentation to come
