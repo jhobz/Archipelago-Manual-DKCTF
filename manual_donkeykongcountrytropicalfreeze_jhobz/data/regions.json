@@ -2,37 +2,37 @@
 	"Lost Mangroves": 
 	{
 		"starting": true,
-		"connects_to": ["[1-1] Mangrove Cove","[1-2] Shipwreck Shore","[1-A] Zip-Line Shrine","[1-3] Canopy Chaos","[1-B] Busted Bayou","[1-4] Trunk Twister","[1-K] Swinger Flinger","[1-BOSS] Big Top Bop"],
+		"connects_to": ["[1-1] Mangrove Cove","[1-2] Shipwreck Shore","[1-A] Zip-Line Shrine","[1-3] Canopy Chaos","[1-B] Busted Bayou","[1-4] Trunk Twister","[1-K] Swinger Flinger","[1-Boss] Big Top Bop"],
 		"requires": []
 	},
 	"Autumn Heights": 
 	{
 		"starting": true,
-		"connects_to": ["[2-1] Windmill Hills","[2-2] Mountain Mania","[2-3] Horn Top Hop","[2-4] Sawmill Thrill","[2-5] Alpine Incline","[2-A] Crumble Cavern","[2-B] Rodent Ruckus","[2-6] Wing Ding","[2-K] Bopopolis","[2-BOSS] Mountaintop Tussle"],
+		"connects_to": ["[2-1] Windmill Hills","[2-2] Mountain Mania","[2-3] Horn Top Hop","[2-4] Sawmill Thrill","[2-5] Alpine Incline","[2-A] Crumble Cavern","[2-B] Rodent Ruckus","[2-6] Wing Ding","[2-K] Bopopolis","[2-Boss] Mountaintop Tussle"],
 		"requires": []
 	},
 	"Bright Savannah": 
 	{
 		"starting": true,
-		"connects_to": ["[3-1] Grassland Groove","[3-2] Baobab Bonanza","[3-3] Frantic Fields","[3-4] Scorch 'n' Torch","[3-5] Twilight Terror","[3-A] Rickety Rafters","[3-6] Cannon Canyon","[3-B] Bramble Scramble","[3-K] Precarious Pendulums","[3-BOSS] Triple Trouble"],
+		"connects_to": ["[3-1] Grassland Groove","[3-2] Baobab Bonanza","[3-3] Frantic Fields","[3-4] Scorch 'n' Torch","[3-5] Twilight Terror","[3-A] Rickety Rafters","[3-6] Cannon Canyon","[3-B] Bramble Scramble","[3-K] Precarious Pendulums","[3-Boss] Triple Trouble"],
 		"requires": []
 	},
 	"Sea Breeze Cove": 
 	{
 		"starting": true,
-		"connects_to": ["[4-1] Deep Keep","[4-A] Rockin' Relics","[4-B] Shoal Atoll","[4-2] High Tide Ride","[4-3] Amiss Abyss","[4-4] Irate Eight","[4-5] Sea Stack Attack","[4-6] Current Capes","[4-K] Spinning Spines","[4-BOSS] Fugu Face-Off"],
+		"connects_to": ["[4-1] Deep Keep","[4-A] Rockin' Relics","[4-B] Shoal Atoll","[4-2] High Tide Ride","[4-3] Amiss Abyss","[4-4] Irate Eight","[4-5] Sea Stack Attack","[4-6] Current Capes","[4-K] Spinning Spines","[4-Boss] Fugu Face-Off"],
 		"requires": []
 	},
 	"Juicy Jungle": 
 	{
 		"starting": true,
-		"connects_to": ["[5-1] Harvest Hazards","[5-2] Reckless Ride","[5-3] Fruity Factory","[5-A] Beehive Brawl","[5-4] Panicky Paddles","[5-5] Jelly Jamboree","[5-B] Jammin Jam'","[5-6] Frosty Fruits","[5-K] Platform Problems","[5-BOSS] Punch Bowl"],
+		"connects_to": ["[5-1] Harvest Hazards","[5-2] Reckless Ride","[5-3] Fruity Factory","[5-A] Beehive Brawl","[5-4] Panicky Paddles","[5-5] Jelly Jamboree","[5-B] Jammin' Jam","[5-6] Frosty Fruits","[5-K] Platform Problems","[5-Boss] Punch Bowl"],
 		"requires": []
 	},
 	"Donkey Kong Island": 
 	{
 		"starting": true,
-		"connects_to": ["[6-1] Homecoming Hijinks","[6-2] Seashore War","[6-3] Aqueduct Assault","[6-4] Blurry Flurry","[6-5] Forest Folly","[6-6] Cliffside Slide","[6-7] Frozen Frenzy","[6-A] Dynamite Dash","[6-B] Icicle Arsenal","[6-8] Meltdown Mayhem","[6-K] Slippery Spikes","[6-BOSS] Volcano Dome"],
+		"connects_to": ["[6-1] Homecoming Hijinks","[6-2] Seashore War","[6-3] Aqueduct Assault","[6-4] Blurry Flurry","[6-5] Forest Folly","[6-6] Cliffside Slide","[6-7] Frozen Frenzy","[6-A] Dynamite Dash","[6-B] Icicle Arsenal","[6-8] Meltdown Mayhem","[6-K] Slippery Spikes","[6-Boss] Volcano Dome"],
 		"requires": []
 	},
 	"Secret Seclusion": 

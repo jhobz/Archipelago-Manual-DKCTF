@@ -25,385 +25,385 @@
 	},
 	{
 		"count":1,
-		"name": "|Level 1-1|",
+		"name": "Level 1-1",
 		"category": ["Levels","Lost Mangroves Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 1-2|",
+		"name": "Level 1-2",
 		"category": ["Levels","Lost Mangroves Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 1-A|",
+		"name": "Level 1-A",
 		"category": ["Levels","Lost Mangroves Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 1-3|",
+		"name": "Level 1-3",
 		"category": ["Levels","Lost Mangroves Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 1-B|",
+		"name": "Level 1-B",
 		"category": ["Levels","Lost Mangroves Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 1-4|",
+		"name": "Level 1-4",
 		"category": ["Levels","Lost Mangroves Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 1-K|",
+		"name": "Level 1-K",
 		"category": ["Levels","Lost Mangroves Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 1-BOSS|",
+		"name": "Level 1-BOSS",
 		"category": ["Levels","Lost Mangroves Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 2-1|",
+		"name": "Level 2-1",
 		"category": ["Levels","Autumn Heights Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 2-2|",
+		"name": "Level 2-2",
 		"category": ["Levels","Autumn Heights Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 2-3|",
+		"name": "Level 2-3",
 		"category": ["Levels","Autumn Heights Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 2-4|",
+		"name": "Level 2-4",
 		"category": ["Levels","Autumn Heights Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 2-5|",
+		"name": "Level 2-5",
 		"category": ["Levels","Autumn Heights Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 2-A|",
+		"name": "Level 2-A",
 		"category": ["Levels","Autumn Heights Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 2-B|",
+		"name": "Level 2-B",
 		"category": ["Levels","Autumn Heights Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 2-6|",
+		"name": "Level 2-6",
 		"category": ["Levels","Autumn Heights Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 2-K|",
+		"name": "Level 2-K",
 		"category": ["Levels","Autumn Heights Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 2-BOSS|",
+		"name": "Level 2-BOSS",
 		"category": ["Levels","Autumn Heights Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 3-1|",
+		"name": "Level 3-1",
 		"category": ["Levels","Bright Savannah Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 3-2|",
+		"name": "Level 3-2",
 		"category": ["Levels","Bright Savannah Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 3-3|",
+		"name": "Level 3-3",
 		"category": ["Levels","Bright Savannah Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 3-4|",
+		"name": "Level 3-4",
 		"category": ["Levels","Bright Savannah Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 3-5|",
+		"name": "Level 3-5",
 		"category": ["Levels","Bright Savannah Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 3-A|",
+		"name": "Level 3-A",
 		"category": ["Levels","Bright Savannah Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 3-6|",
+		"name": "Level 3-6",
 		"category": ["Levels","Bright Savannah Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 3-B|",
+		"name": "Level 3-B",
 		"category": ["Levels","Bright Savannah Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 3-K|",
+		"name": "Level 3-K",
 		"category": ["Levels","Bright Savannah Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 3-BOSS|",
+		"name": "Level 3-BOSS",
 		"category": ["Levels","Bright Savannah Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 4-1|",
+		"name": "Level 4-1",
 		"category": ["Levels","Sea Breeze Cove Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 4-A|",
+		"name": "Level 4-A",
 		"category": ["Levels","Sea Breeze Cove Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 4-B|",
+		"name": "Level 4-B",
 		"category": ["Levels","Sea Breeze Cove Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 4-2|",
+		"name": "Level 4-2",
 		"category": ["Levels","Sea Breeze Cove Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 4-3|",
+		"name": "Level 4-3",
 		"category": ["Levels","Sea Breeze Cove Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 4-4|",
+		"name": "Level 4-4",
 		"category": ["Levels","Sea Breeze Cove Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 4-5|",
+		"name": "Level 4-5",
 		"category": ["Levels","Sea Breeze Cove Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 4-6|",
+		"name": "Level 4-6",
 		"category": ["Levels","Sea Breeze Cove Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 4-K|",
+		"name": "Level 4-K",
 		"category": ["Levels","Sea Breeze Cove Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 4-BOSS|",
+		"name": "Level 4-BOSS",
 		"category": ["Levels","Sea Breeze Cove Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 5-1|",
+		"name": "Level 5-1",
 		"category": ["Levels","Juicy Jungle Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 5-2|",
+		"name": "Level 5-2",
 		"category": ["Levels","Juicy Jungle Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 5-3|",
+		"name": "Level 5-3",
 		"category": ["Levels","Juicy Jungle Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 5-A|",
+		"name": "Level 5-A",
 		"category": ["Levels","Juicy Jungle Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 5-4|",
+		"name": "Level 5-4",
 		"category": ["Levels","Juicy Jungle Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 5-5|",
+		"name": "Level 5-5",
 		"category": ["Levels","Juicy Jungle Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 5-B|",
+		"name": "Level 5-B",
 		"category": ["Levels","Juicy Jungle Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 5-6|",
+		"name": "Level 5-6",
 		"category": ["Levels","Juicy Jungle Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 5-K|",
+		"name": "Level 5-K",
 		"category": ["Levels","Juicy Jungle Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 5-BOSS|",
+		"name": "Level 5-BOSS",
 		"category": ["Levels","Juicy Jungle Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 6-1|",
+		"name": "Level 6-1",
 		"category": ["Levels","Donkey Kong Island Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 6-2|",
+		"name": "Level 6-2",
 		"category": ["Levels","Donkey Kong Island Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 6-3|",
+		"name": "Level 6-3",
 		"category": ["Levels","Donkey Kong Island Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 6-4|",
+		"name": "Level 6-4",
 		"category": ["Levels","Donkey Kong Island Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 6-5|",
+		"name": "Level 6-5",
 		"category": ["Levels","Donkey Kong Island Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 6-6|",
+		"name": "Level 6-6",
 		"category": ["Levels","Donkey Kong Island Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 6-7|",
+		"name": "Level 6-7",
 		"category": ["Levels","Donkey Kong Island Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 6-8|",
+		"name": "Level 6-8",
 		"category": ["Levels","Donkey Kong Island Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 6-A|",
+		"name": "Level 6-A",
 		"category": ["Levels","Donkey Kong Island Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 6-B|",
+		"name": "Level 6-B",
 		"category": ["Levels","Donkey Kong Island Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 6-K|",
+		"name": "Level 6-K",
 		"category": ["Levels","Donkey Kong Island Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 6-BOSS|",
+		"name": "Level 6-BOSS",
 		"category": ["Levels","Donkey Kong Island Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 7-1|",
+		"name": "Level 7-1",
 		"category": ["Levels","Secret Seclusion Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 7-2|",
+		"name": "Level 7-2",
 		"category": ["Levels","Secret Seclusion Levels"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "|Level 7-3|",
+		"name": "Level 7-3",
 		"category": ["Levels","Secret Seclusion Levels"],
 		"progression": true
 	},
 	{
-		"count": 4,
-		"name": "|Boss Barrel|",
+		"count": 6,
+		"name": "Boss Barrel",
 		"category": ["Bosses"],
 		"progression": true
 	}
