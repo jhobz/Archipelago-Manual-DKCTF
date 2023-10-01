@@ -724,5 +724,60 @@
 		"name": "Big Sphen Figurine",
 		"category": ["Figurines"],
 		"filler": true
+	},
+
+	{
+		"count": 30,
+		"name": "Banana Bunch",
+		"category": ["Flavor Items"],
+		"filler": true
+	},
+	{
+		"count": 30,
+		"name": "Flying Banana",
+		"category": ["Flavor Items"],
+		"filler": true
+	},
+	{
+		"count": 30,
+		"name": "Banana Coin",
+		"category": ["Flavor Items"],
+		"filler": true
+	},
+	{
+		"count": 10,
+		"name": "Watermelon Fuse Bomb",
+		"category": ["Flavor Items"],
+		"filler": true
+	},
+	{
+		"count": 10,
+		"name": "Water Sack",
+		"category": ["Flavor Items"],
+		"filler": true
+	},
+	{
+		"count": 10,
+		"name": "Jelly Block",
+		"category": ["Flavor Items"],
+		"filler": true
+	},
+	{
+		"count": 5,
+		"name": "Burlap Hanging Sack",
+		"category": ["Flavor Items"],
+		"filler": true
+	},
+	{
+		"count": 5,
+		"name": "Vine",
+		"category": ["Flavor Items"],
+		"filler": true
+	},
+	{
+		"count": 1,
+		"name": "Barrel. Just a Regular Barrel. Ha.",
+		"category": ["Flavor Items"],
+		"filler": true
 	}
 ]
