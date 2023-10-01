@@ -1,12 +1,6 @@
 [
 	{
 		"count": 5,
-		"name": "Cranky Kong",
-		"category": ["Kongs"],
-		"progression": true
-	},
-	{
-		"count": 5,
 		"name": "Diddy Kong",
 		"category": ["Kongs"],
 		"progression": true
@@ -18,11 +12,81 @@
 		"progression": true
 	},
 	{
-		"count":1,
+		"count": 5,
+		"name": "Cranky Kong",
+		"category": ["Kongs"],
+		"progression": true
+	},
+	{
+		"count": 1,
 		"name": "Funky Kong",
 		"category": ["Kongs"],
 		"progression": true
 	},
+
+
+	{
+		"count": 10,
+		"name": "Diddy Kong Barrel",
+		"category": ["Consumables", "Shop Items"],
+		"useful": true
+	},
+	{
+		"count": 10,
+		"name": "Dixie Kong Barrel",
+		"category": ["Consumables", "Shop Items"],
+		"useful": true
+	},
+	{
+		"count": 10,
+		"name": "Cranky Kong Barrel",
+		"category": ["Consumables", "Shop Items"],
+		"useful": true
+	},
+	{
+		"count": 15,
+		"name": "Red Balloon",
+		"category": ["Consumables", "Shop Items"],
+		"useful": true
+	},
+	{
+		"count": 15,
+		"name": "Blue Balloon",
+		"category": ["Consumables", "Shop Items"],
+		"useful": true
+	},
+	{
+		"count": 15,
+		"name": "Green Balloon",
+		"category": ["Consumables", "Shop Items"],
+		"useful": true
+	},
+	{
+		"count": 20,
+		"name": "Squawks",
+		"category": ["Consumables", "Shop Items"],
+		"useful": true
+	},
+	{
+		"count": 20,
+		"name": "Crash Guard",
+		"category": ["Consumables", "Shop Items"],
+		"useful": true
+	},
+	{
+		"count": 10,
+		"name": "Banana Juice",
+		"category": ["Consumables", "Shop Items"],
+		"useful": true
+	},
+	{
+		"count": 10,
+		"name": "Heart Boost",
+		"category": ["Consumables", "Shop Items"],
+		"useful": true
+	},
+
+
 	{
 		"count":1,
 		"name": "Level 1-1",
@@ -406,5 +470,259 @@
 		"name": "Boss Barrel",
 		"category": ["Bosses"],
 		"progression": true
+	},
+
+
+	{
+		"count": 1,
+		"name": "Donkey Kong Figurine",
+		"category": ["Figurines"],
+		"filler": true
+	},
+	{
+		"count": 1,
+		"name": "Diddy Kong Figurine",
+		"category": ["Figurines"],
+		"filler": true
+	},
+	{
+		"count": 1,
+		"name": "Dixie Kong Figurine",
+		"category": ["Figurines"],
+		"filler": true
+	},
+	{
+		"count": 1,
+		"name": "Cranky Kong Figurine",
+		"category": ["Figurines"],
+		"filler": true
+	},
+	{
+		"count": 1,
+		"name": "Funky Kong Figurine",
+		"category": ["Figurines"],
+		"filler": true
+	},
+	{
+		"count": 1,
+		"name": "Rambi the Rhinoceros Figurine",
+		"category": ["Figurines"],
+		"filler": true
+	},
+	{
+		"count": 1,
+		"name": "Professor Chops Figurine",
+		"category": ["Figurines"],
+		"filler": true
+	},
+	{
+		"count": 1,
+		"name": "Mine Cart Figurine",
+		"category": ["Figurines"],
+		"filler": true
+	},
+	{
+		"count": 1,
+		"name": "Rocket Barrel Figurine",
+		"category": ["Figurines"],
+		"filler": true
+	},
+	{
+		"count": 1,
+		"name": "Tawks Figurine",
+		"category": ["Figurines"],
+		"filler": true
+	},
+	{
+		"count": 1,
+		"name": "Pompy, the Presumptuous Figurine",
+		"category": ["Figurines"],
+		"filler": true
+	},
+	{
+		"count": 1,
+		"name": "Skowl, the Startling Figurine",
+		"category": ["Figurines"],
+		"filler": true
+	},
+	{
+		"count": 1,
+		"name": "Ba-Boom, the Boisterous Figurine",
+		"category": ["Figurines"],
+		"filler": true
+	},
+	{
+		"count": 1,
+		"name": "Fugu, the Frightening Figurine",
+		"category": ["Figurines"],
+		"filler": true
+	},
+	{
+		"count": 1,
+		"name": "Bashmaster, the Unbreakable Figurine",
+		"category": ["Figurines"],
+		"filler": true
+	},
+	{
+		"count": 1,
+		"name": "Lord Fredrik, the Snowmad King Figurine",
+		"category": ["Figurines"],
+		"filler": true
+	},
+	{
+		"count": 1,
+		"name": "Tucks Figurine",
+		"category": ["Figurines"],
+		"filler": true
+	},
+	{
+		"count": 1,
+		"name": "Speedy Tucks Figurine",
+		"category": ["Figurines"],
+		"filler": true
+	},
+	{
+		"count": 1,
+		"name": "Tuff Tucks Figurine",
+		"category": ["Figurines"],
+		"filler": true
+	},
+	{
+		"count": 1,
+		"name": "Pointy Tucks Figurine",
+		"category": ["Figurines"],
+		"filler": true
+	},
+	{
+		"count": 1,
+		"name": "Trench Tucks Figurine",
+		"category": ["Figurines"],
+		"filler": true
+	},
+	{
+		"count": 1,
+		"name": "Archy Figurine",
+		"category": ["Figurines"],
+		"filler": true
+	},
+	{
+		"count": 1,
+		"name": "Boom Bird Figurine",
+		"category": ["Figurines"],
+		"filler": true
+	},
+	{
+		"count": 1,
+		"name": "Painguin Tucks Figurine",
+		"category": ["Figurines"],
+		"filler": true
+	},
+	{
+		"count": 1,
+		"name": "Papa Painguin Figurine",
+		"category": ["Figurines"],
+		"filler": true
+	},
+	{
+		"count": 1,
+		"name": "Soary Figurine",
+		"category": ["Figurines"],
+		"filler": true
+	},
+	{
+		"count": 1,
+		"name": "Fluff Figurine",
+		"category": ["Figurines"],
+		"filler": true
+	},
+	{
+		"count": 1,
+		"name": "Tuff Fluff Figurine",
+		"category": ["Figurines"],
+		"filler": true
+	},
+	{
+		"count": 1,
+		"name": "Harey Fluff Figurine",
+		"category": ["Figurines"],
+		"filler": true
+	},
+	{
+		"count": 1,
+		"name": "Harold Fluff Figurine",
+		"category": ["Figurines"],
+		"filler": true
+	},
+	{
+		"count": 1,
+		"name": "Lemmington Figurine",
+		"category": ["Figurines"],
+		"filler": true
+	},
+	{
+		"count": 1,
+		"name": "Hootz Figurine",
+		"category": ["Figurines"],
+		"filler": true
+	},
+	{
+		"count": 1,
+		"name": "Hot Hootz Figurine",
+		"category": ["Figurines"],
+		"filler": true
+	},
+	{
+		"count": 1,
+		"name": "Puffton Figurine",
+		"category": ["Figurines"],
+		"filler": true
+	},
+	{
+		"count": 1,
+		"name": "Tuffton Figurine",
+		"category": ["Figurines"],
+		"filler": true
+	},
+	{
+		"count": 1,
+		"name": "Blue Hootz Figurine",
+		"category": ["Figurines"],
+		"filler": true
+	},
+	{
+		"count": 1,
+		"name": "Waldough Figurine",
+		"category": ["Figurines"],
+		"filler": true
+	},
+	{
+		"count": 1,
+		"name": "Walnut Figurine",
+		"category": ["Figurines"],
+		"filler": true
+	},
+	{
+		"count": 1,
+		"name": "Walbrick Figurine",
+		"category": ["Figurines"],
+		"filler": true
+	},
+	{
+		"count": 1,
+		"name": "Chum Chucker Charlie Figurine",
+		"category": ["Figurines"],
+		"filler": true
+	},
+	{
+		"count": 1,
+		"name": "Fish Poker Pops Figurine",
+		"category": ["Figurines"],
+		"filler": true
+	},
+	{
+		"count": 1,
+		"name": "Big Sphen Figurine",
+		"category": ["Figurines"],
+		"filler": true
 	}
 ]
